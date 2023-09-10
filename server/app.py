@@ -1,18 +1,17 @@
+from flask_socketio import SocketIO
+from mtgscan.text import MagicRecognition
+from mtgscan.ocr.azure import Azure
+from flask import Flask, jsonify, render_template
+from celery import Celery, Task
+from pathlib import Path
+import os
+import base64
 import eventlet
 eventlet.monkey_patch()
 
-import base64
-import os
-from pathlib import Path
-
-from celery import Celery, Task
-from flask import Flask, jsonify, render_template
-from mtgscan.ocr.azure import Azure
-from mtgscan.text import MagicRecognition
-from flask_socketio import SocketIO
 
 DIR_DATA = Path(__file__).parent / "data"
-REDIS_URL = f"redis://:{os.environ.get('REDIS_PASSWORD')}@redis:6379/0"
+REDIS_URL = os.environ.get('REDIS_URL')
 
 app = Flask(__name__)
 socketio = SocketIO(app, message_queue=REDIS_URL, cors_allowed_origins="*")
@@ -22,7 +21,8 @@ celery = Celery(app.name, broker=REDIS_URL, backend=REDIS_URL)
 class ScanTask(Task):
     def __init__(self):
         self._rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
-                                     file_keywords=(DIR_DATA / "Keywords.json"),
+                                     file_keywords=(
+                                         DIR_DATA / "Keywords.json"),
                                      max_ratio_diff=0.2)
 
 
@@ -38,9 +38,11 @@ def scan_io(msg):
 
 @celery.task(base=ScanTask)
 def scan_celery(msg):
+    print("scan_celery")
     deck, img = scan(scan_celery._rec, msg)
     sio = SocketIO(message_queue=REDIS_URL)
-    sio.emit("scan_result", {"deck": deck.maindeck.cards, "image": img}, room=msg["id"])
+    sio.emit("scan_result", {
+             "deck": deck.maindeck.cards, "image": img}, room=msg["id"])
 
 
 def scan(rec, msg):

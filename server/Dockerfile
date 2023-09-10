@@ -8,4 +8,4 @@ RUN poetry install
 
 COPY . .
 
-CMD ["poetry", "run", "python", "app.py"]
+CMD ["poetry", "run", "celery", "-A", "app.celery", "worker", "-P", "eventlet", "--loglevel=info", "&", "poetry", "run", "python", "app.py"]
