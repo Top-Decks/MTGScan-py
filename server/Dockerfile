@@ -1,6 +1,6 @@
 FROM qfortier/poetry
 
-EXPOSE 80
+EXPOSE 5002
 
 WORKDIR /server
 COPY poetry.lock pyproject.toml ./
