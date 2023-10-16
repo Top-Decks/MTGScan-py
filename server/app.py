@@ -51,6 +51,7 @@ def scan_celery(msg):
 
 def scan(rec, msg):
     azure = Azure()
+    print("scan")
     box_texts = azure.image_to_box_texts(msg["image"], True)
     box_cards = rec.box_texts_to_cards(box_texts)
     rec._assign_stacked(box_texts, box_cards)

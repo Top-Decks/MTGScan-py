@@ -1103,7 +1103,7 @@ symspellpy = "^6.7.0"
 type = "git"
 url = "https://github.com/Top-Decks/MTGSCAN"
 reference = "HEAD"
-resolved_reference = "7e94ca18fdd596a9ded8acce8188a0987e9ad488"
+resolved_reference = "914a59fd222ffcce836f869d680902640b12082e"
 
 [[package]]
 name = "numpy"
