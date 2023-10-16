@@ -16,6 +16,9 @@ REDIS_URL = os.environ.get('REDIS_URL')
 app = Flask(__name__)
 socketio = SocketIO(app, message_queue=REDIS_URL, cors_allowed_origins="*")
 celery = Celery(app.name, broker=REDIS_URL, backend=REDIS_URL)
+celery.conf.update(
+    broker_connection_retry_on_startup=True
+)
 
 
 class ScanTask(Task):
@@ -33,6 +36,7 @@ def index():
 
 @socketio.on("scan")
 def scan_io(msg):
+    print("scan_io")
     scan_celery.delay(msg)
 
 

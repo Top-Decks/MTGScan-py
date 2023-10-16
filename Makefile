@@ -10,6 +10,7 @@ up:
 
 build:
 ifdef nocache
+	cd server && poetry lock && cd ..; \
 	docker build --no-cache -t qfortier/mtgscan-server:$(VERSION) server/
 else
 	docker build -t qfortier/mtgscan-server:$(VERSION) server/
