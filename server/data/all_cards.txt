@@ -25958,3 +25958,324 @@ _____-o-saurus$1
 成长季节$1
 超凡成长$1
 理想境蔓生$1
+Abuelo’s Awakening$1
+Acrobatic Leap$1
+Adaptive Gemguard$1
+Attentive Sunscribe$1
+Bat Colony$1
+Clay-Fired Bricks$1
+Cosmium Kiln$1
+Cosmium Blast$1
+Dauntless Dismantler$1
+Deconstruction Hammer$1
+Dusk Rose Reliquary$1
+Envoy of Okinec Ahau$1
+Fabrication Foundry$1
+Family Reunion$1
+Get Lost$1
+Glorifier of Suffering$1
+Guardian of the Great Door$1
+Helping Hand$1
+Ironpaw Aspirant$1
+Kinjalli’s Dawnrunner$1
+Kutzil’s Flanker$1
+Malamet War Scribe$1
+Market Gnome$1
+Might of the Ancestors$1
+Miner’s Guidewing$1
+Mischievous Pup$1
+Ojer Taq, Deepest Foundation$1
+Temple of Civilization$1
+Oltec Archaeologists$1
+Oltec Cloud Guard$1
+Oteclan Landmark$1
+Oteclan Levitator$1
+Petrify$1
+Quicksand Whirlpool$1
+Resplendent Angel$1
+Ruin-Lurker Bat$1
+Sanguine Evangelist$1
+Soaring Sandwing$1
+Spring-Loaded Sawblades$1
+Bladewheel Chariot$1
+Thousand Moons Crackshot$1
+Thousand Moons Infantry$1
+Thousand Moons Smithy$1
+Tinker’s Tote$1
+Unstable Glyphbridge$1
+Sandswirl Wanderglyph$1
+Vanguard of the Rose$1
+Warden of the Inner Sky$1
+Akal Pakal, First Among Equals$1
+Ancestral Reminiscence$1
+Brackish Blunder$1
+Braided Net$1
+Braided Quipu$1
+Chart a Course$1
+Cogwork Wrestler$1
+Confounding Riddle$1
+Council of Echoes$1
+Deeproot Pilgrimage$1
+Didact Echo$1
+Eaten by Piranhas$1
+Frilled Cave-Wurm$1
+Hermitic Nautilus$1
+Hurl into History$1
+Inverted Iceberg$1
+Iceberg Titan$1
+Kitesail Larcenist$1
+Lodestone Needle$1
+Guidestone Compass$1
+Malcolm, Alluring Scoundrel$1
+Marauding Brinefang$1
+Merfolk Cave-Diver$1
+Oaken Siren$1
+Ojer Pakpatiq, Deepest Epoch$1
+Temple of Cyclical Time$1
+Orazca Puzzle-Door$1
+Out of Air$1
+Pirate Hat$1
+Relic’s Roar$1
+River Herald Scout$1
+Sage of Days$1
+Self-Reflection$1
+Shipwreck Sentry$1
+Sinuous Benthisaur$1
+Song of Stupefaction$1
+Spyglass Siren$1
+Staunch Crewmate$1
+Subterranean Schooner$1
+The Enigma Jewel$1
+Locus of Enlightenment$1
+The Everflowing Well$1
+The Myriad Pools$1
+Tishana’s Tidebinder$1
+Unlucky Drop$1
+Waterlogged Hulk$1
+Watertight Gondola$1
+Waterwind Scout$1
+Waylaying Pirates$1
+Zoetic Glyph$1
+Abyssal Gorestalker$1
+Aclazotz, Deepest Betrayal$1
+Temple of the Dead$1
+Acolyte of Aclazotz$1
+Another Chance$1
+Bitter Triumph$1
+Bloodletter of Aclazotz$1
+Bloodthorn Flail$1
+Bringer of the Last Gift$1
+Broodrage Mycoid$1
+Canonized in Blood$1
+Chupacabra Echo$1
+Corpses of the Lost$1
+Dead Weight$1
+Deathcap Marionette$1
+Deep Goblin Skulltaker$1
+Deep-Cavern Bat$1
+Defossilize$1
+Echo of Dusk$1
+Fanatical Offering$1
+Fungal Fortitude$1
+Gargantuan Leech$1
+Grasping Shadows$1
+Shadows’ Lair$1
+Greedy Freebooter$1
+Join the Dead$1
+Malicious Eclipse$1
+Mephitic Draught$1
+Preacher of the Schism$1
+Primordial Gnawer$1
+Queen’s Bay Paladin$1
+Rampaging Spiketail$1
+Ray of Ruin$1
+Screaming Phantom$1
+Skullcap Snail$1
+Soulcoil Viper$1
+Souls of the Lost$1
+Stalactite Stalker$1
+Starving Revenant$1
+Stinging Cave Crawler$1
+Synapse Necromage$1
+Tarrian’s Journal$1
+The Tomb of Aclazotz$1
+Terror Tide$1
+Tithing Blade$1
+Consuming Sepulcher$1
+Visage of Dread$1
+Dread Osseosaur$1
+Vito’s Inquisitor$1
+Abrade$1
+Ancestors’ Aid$1
+Belligerent Yearling$1
+Bonehoard Dracosaur$1
+Brass’s Tunnel-Grinder$1
+Tecutlan, the Searing Rift$1
+Brazen Blademaster$1
+Breeches, Eager Pillager$1
+Burning Sun Cavalry$1
+Calamitous Cave-In$1
+Child of the Volcano$1
+Curator of Sun’s Creation$1
+Daring Discovery$1
+Diamond Pick-Axe$1
+Dinotomaton$1
+Dire Flail$1
+Dire Blunderbuss$1
+Dowsing Device$1
+Geode Grotto$1
+Dreadmaw’s Ire$1
+Enterprising Scallywag$1
+Etali’s Favor$1
+Geological Appraiser$1
+Goblin Tomb Raider$1
+Goldfury Strider$1
+Hit the Mother Lode$1
+Hotfoot Gnome$1
+Idol of the Deep King$1
+Sovereign’s Macuahuitl$1
+Inti, Seneschal of the Sun$1
+Magmatic Galleon$1
+Ojer Axonil, Deepest Might$1
+Temple of Power$1
+Panicked Altisaur$1
+Plundering Pirate$1
+Poetic Ingenuity$1
+Rampaging Ceratops$1
+Rumbling Rockslide$1
+Saheeli’s Lattice$1
+Scytheclaw Raptor$1
+Seismic Monstrosaur$1
+Sunfire Torch$1
+Sunshot Militia$1
+Tectonic Hazard$1
+Triumphant Chomp$1
+Trumpeting Carnosaur$1
+Volatile Wanderglyph$1
+Zoyowa’s Justice$1
+Armored Kincaller$1
+Basking Capybara$1
+Bedrock Tortoise$1
+Cavern Stomper$1
+Cenote Scout$1
+Coati Scavenger$1
+Colossadactyl$1
+Cosmium Confluence$1
+Disturbed Slumber$1
+Earthshaker Dreadmaw$1
+Explorer’s Cache$1
+Ghalta, Stampede Tyrant$1
+Glimpse the Core$1
+Glowcap Lantern$1
+Growing Rites of Itlimoc$1
+Itlimoc, Cradle of the Sun$1
+Huatli’s Final Strike$1
+Huatli, Poet of Unity$1
+Roar of the Fifth People$1
+Hulking Raptor$1
+In the Presence of Ages$1
+Intrepid Paleontologist$1
+Ixalli’s Lorekeeper$1
+Jade Seedstones$1
+Jadeheart Attendant$1
+Jadelight Spelunker$1
+Kaslem’s Stonetree$1
+Kaslem’s Strider$1
+Malamet Battle Glyph$1
+Malamet Brawler$1
+Malamet Scythe$1
+Malamet Veteran$1
+Mineshaft Spider$1
+Nurturing Bristleback$1
+Ojer Kaslem, Deepest Growth$1
+Temple of Cultivation$1
+Over the Edge$1
+Pathfinding Axejaw$1
+Poison Dart Frog$1
+Pugnacious Hammerskull$1
+River Herald Guide$1
+Seeker of Sunlight$1
+Sentinel of the Nameless City$1
+Spelunking$1
+Staggering Size$1
+Tendril of the Mycotyrant$1
+The Skullspore Nexus$1
+Thrashing Brontodon$1
+Twists and Turns$1
+Mycoid Maze$1
+Walk with the Ancestors$1
+Abuelo, Ancestral Echo$1
+Akawalli, the Seething Tower$1
+Amalia Benavides Aguirre$1
+Anim Pakal, Thousandth Moon$1
+Bartolomé del Presidio$1
+Caparocti Sunborn$1
+Captain Storm, Cosmium Raider$1
+Deepfathom Echo$1
+Gishath, Sun’s Avatar$1
+Itzquinth, Firstborn of Gishath$1
+Kellan, Daring Traveler$1
+Journey On$1
+Kutzil, Malamet Exemplar$1
+Master’s Guide-Mural$1
+Master’s Manufactory$1
+Molten Collapse$1
+Nicanzil, Current Conductor$1
+Palani’s Hatcher$1
+Quintorius Kand$1
+Saheeli, the Sun’s Brilliance$1
+Sovereign Okinec Ahau$1
+Squirming Emergence$1
+The Ancient One$1
+The Belligerent$1
+The Mycotyrant$1
+Uchbenbak, the Great Mistake$1
+Vito, Fanatic of Aclazotz$1
+Wail of the Forgotten$1
+Zoyowa Lava-Tongue$1
+Buried Treasure$1
+Careening Mine Cart$1
+Cartographer’s Companion$1
+Chimil, the Inner Sun$1
+Compass Gnome$1
+Contested Game Ball$1
+Digsite Conservator$1
+Disruptor Wanderglyph$1
+Hoverstone Pilgrim$1
+Hunter’s Blowgun$1
+Matzalantli, the Great Door$1
+The Core$1
+Roaming Throne$1
+Runaway Boulder$1
+Scampering Surveyor$1
+Sorcerous Spyglass$1
+Sunbird Standard$1
+Sunbird Effigy$1
+Swashbuckler’s Whip$1
+Tarrian’s Soulcleaver$1
+The Millennium Calendar$1
+Threefold Thunderhulk$1
+Throne of the Grim Captain$1
+The Grim Captain$1
+Treasure Map$1
+Treasure Cove$1
+Captivating Cave$1
+Cavern of Souls$1
+Cavernous Maw$1
+Echoing Deeps$1
+Forgotten Monument$1
+Hidden Cataract$1
+Hidden Courtyard$1
+Hidden Necropolis$1
+Hidden Nursery$1
+Hidden Volcano$1
+Pit of Offerings$1
+Promising Vein$1
+Restless Anchorage$1
+Restless Prairie$1
+Restless Reef$1
+Restless Ridgeline$1
+Restless Vents$1
+Sunken Citadel$1
+Volatile Fault$1
+
