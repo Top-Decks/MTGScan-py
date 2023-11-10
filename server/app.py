@@ -26,7 +26,7 @@ class ScanTask(Task):
         self._rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
                                      file_keywords=(
                                          DIR_DATA / "Keywords.json"),
-                                     max_ratio_diff=0.2)
+                                     max_ratio_diff=0.3)
 
 
 @app.route("/")
@@ -64,7 +64,7 @@ def scan(rec, msg):
 def api_scan(url):
     rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
                            file_keywords=(DIR_DATA / "Keywords.json"),
-                           max_ratio_diff=0.2)
+                           max_ratio_diff=0.3)
     deck = scan(rec, url)
     return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards})
 
