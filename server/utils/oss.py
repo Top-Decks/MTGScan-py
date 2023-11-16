@@ -17,7 +17,7 @@ class OSSUtil:
 
     def upload_img(self, img):
         try:
-            filename = "scan_result_" + datetime.now().strftime("%Y%m%d%H%M%S") + ".png"
+            filename = "scan_result/" + datetime.now().strftime("%Y%m%d%H%M%S") + ".png"
             # tmp file path
             filepath = f"/tmp/{filename}"
             # make sure tmp dir exists
