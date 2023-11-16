@@ -32,7 +32,7 @@ $(document).ready(_ => {
         }
         $("#decklist").text(deck.slice(0, -1));
         $("#decklist").show();
-        $("#image").attr("src", "data:image/png;base64, " + msg.image);
+        $("#image").attr("src", msg.image);
         // console.log(msg);
     });
 });

@@ -7,6 +7,8 @@ from pathlib import Path
 import os
 import base64
 import eventlet
+from utils.oss import OSSUtil
+from datetime import datetime
 eventlet.monkey_patch()
 
 
@@ -27,6 +29,7 @@ class ScanTask(Task):
                                      file_keywords=(
                                          DIR_DATA / "Keywords.json"),
                                      max_ratio_diff=0.3)
+        self._oss = OSSUtil()
 
 
 @app.route("/")
@@ -44,9 +47,10 @@ def scan_io(msg):
 def scan_celery(msg):
     print("scan_celery")
     deck, img = scan(scan_celery._rec, msg)
+    img_url = scan_celery._oss.upload_img(img)
     sio = SocketIO(message_queue=REDIS_URL)
     sio.emit("scan_result", {
-             "deck": deck.maindeck.cards, "image": img}, room=msg["id"])
+             "deck": deck.maindeck.cards, "image": img_url}, room=msg["id"])
 
 
 def scan(rec, msg):
@@ -56,7 +60,7 @@ def scan(rec, msg):
     box_cards = rec.box_texts_to_cards(box_texts)
     rec._assign_stacked(box_texts, box_cards)
     deck = rec.box_texts_to_deck(box_texts)
-    img = box_cards.get_image_base64(msg.get("image_64", msg["image"]))
+    img = box_cards.get_image(msg.get("image_64", msg["image"]))
     return deck, img
 
 
@@ -65,6 +69,8 @@ def api_scan(url):
     rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
                            file_keywords=(DIR_DATA / "Keywords.json"),
                            max_ratio_diff=0.3)
+    print("api_scan")
+    print(url)
     deck = scan(rec, url)
     return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards})
 
