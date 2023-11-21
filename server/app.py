@@ -50,7 +50,7 @@ def scan_celery(msg):
     img_url = scan_celery._oss.upload_img(img)
     sio = SocketIO(message_queue=REDIS_URL)
     sio.emit("scan_result", {
-             "deck": deck.maindeck.cards, "image": img_url}, room=msg["id"])
+             "deck": deck.maindeck.cards, "result_img": img_url, "origin_img": msg['image']}, room=msg["id"])
 
 
 def scan(rec, msg):
