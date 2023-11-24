@@ -17,16 +17,17 @@ class OSSUtil:
 
     def upload_img(self, img):
         try:
-            filename = "scan_result_" + datetime.now().strftime("%Y%m%d%H%M%S") + ".png"
+            filename = datetime.now().strftime("%Y%m%d%H%M%S") + ".png"
             # tmp file path
-            filepath = f"/tmp/{filename}"
+            filepath = f"/tmp/scan_result/{filename}"
             # make sure tmp dir exists
-            Path("/tmp").mkdir(parents=True, exist_ok=True)
+            Path("/tmp/scan_result").mkdir(parents=True, exist_ok=True)
             # save image to file
             with open(filepath, "wb") as f:
                 f.write(img)
-            self.bucket.put_object_from_file(filename, filepath)
-            url = f'https://{self.bucket_name}.{self.endpoint}/{filename}'
+            self.bucket.put_object_from_file(
+                f"scan_result/{filename}", filepath)
+            url = f'https://{self.bucket_name}.{self.endpoint}/scan_result/{filename}!q_30.jpg'
             print(f'scan result img url: {url}')
             return url
         except Exception as e:
