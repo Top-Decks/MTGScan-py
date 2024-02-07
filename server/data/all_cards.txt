@@ -26599,3 +26599,573 @@ Volatile Fault$1
 不息喷口$1
 沉没殿堂$1
 动荡断层$1
+Absolving Lammasu$1
+Aftermath Analyst$1
+Agency Coroner$1
+Agency Outfitter$1
+Agrus Kos, Spirit of Justice$1
+Airtight Alibi$1
+A Killer Among Us$1
+Alley Assailant$1
+Alquist Proft, Master Sleuth$1
+Analyze the Pollen$1
+Anzrag's Rampage$1
+Anzrag, the Quake-Mole$1
+Archdruid's Charm$1
+Assassin's Trophy$1
+Assemble the Players$1
+Audience with Trostani$1
+Aurelia's Vindicator$1
+Aurelia, the Law Above$1
+Auspicious Arrival$1
+Axebane Ferox$1
+Barbed Servitor$1
+Basilica Stalker$1
+Behind the Mask$1
+Benthic Criminologists$1
+Bite Down on Crime$1
+Blood Spatter Analysis$1
+Bolrac-Clan Basher$1
+Branch of Vitu-Ghazi$1
+Break Out$1
+Bubble Smuggler$1
+Burden of Proof$1
+Buried in the Garden$1
+Call a Surprise Witness$1
+Candlestick$1
+Case File Auditor$1
+Case of the Burning Masks$1
+Case of the Crimson Pulse$1
+Case of the Filched Falcon$1
+Case of the Gateway Express$1
+Case of the Gorgon's Kiss$1
+Case of the Locked Hothouse$1
+Case of the Pilfered Proof$1
+Case of the Ransacked Lab$1
+Case of the Shattered Pact$1
+Case of the Stashed Skeleton$1
+Case of the Trampled Garden$1
+Case of the Uneaten Feast$1
+Caught Red-Handed$1
+Cease$1
+Desist$1
+Cerebral Confiscation$1
+Chalk Outline$1
+Clandestine Meddler$1
+Coerced to Kill$1
+Cold Case Cracker$1
+Commercial District$1
+Concealed Weapon$1
+Connecting the Dots$1
+Conspiracy Unraveler$1
+Convenient Target$1
+Cornered Crook$1
+Coveted Falcon$1
+Crime Novelist$1
+Crimestopper Sprite$1
+Crowd-Control Warden$1
+Cryptex$1
+Cryptic Coat$1
+Culvert Ambusher$1
+Curious Cadaver$1
+Curious Inquiry$1
+Deadly Complication$1
+Deadly Cover-Up$1
+Deduce$1
+Defenestrated Phantom$1
+Delney, Streetwise Lookout$1
+Demand Answers$1
+Detective's Satchel$1
+Dog Walker$1
+Doorkeeper Thrull$1
+Doppelgang$1
+Drag the Canal$1
+Dramatic Accusation$1
+Due Diligence$1
+Elegant Parlor$1
+Eliminate the Impossible$1
+Escape Tunnel$1
+Essence of Antiquity$1
+Etrata, Deadly Fugitive$1
+Evidence Examiner$1
+Exit Specialist$1
+Expedited Inheritance$1
+Expose the Culprit$1
+Extract a Confession$1
+Ezrim, Agency Chief$1
+Fae Flight$1
+Faerie Snoop$1
+Fanatical Strength$1
+Felonious Rage$1
+Festerleech$1
+Flotsam$1
+Jetsam$1
+Flourishing Bloom-Kin$1
+Forensic Gadgeteer$1
+Forensic Researcher$1
+Forest$1
+Forum Familiar$1
+Frantic Scapegoat$1
+Fugitive Codebreaker$1
+Furtive Courier$1
+Fuss$1
+Bother$1
+Gadget Technician$1
+Galvanize$1
+Gearbane Orangutan$1
+Get a Leg Up$1
+Gleaming Geardrake$1
+Glint Weaver$1
+Goblin Maskmaker$1
+Granite Witness$1
+Gravestone Strider$1
+Greenbelt Radical$1
+Griffnaut Tracker$1
+Haazda Vigilante$1
+Hard-Hitting Question$1
+Harried Dronesmith$1
+Hedge Maze$1
+Hedge Whisperer$1
+Hide in Plain Sight$1
+Homicide Investigator$1
+Hotshot Investigators$1
+Hunted Bonebrute$1
+Hustle$1
+Bustle$1
+Illicit Masquerade$1
+Ill-Timed Explosion$1
+Incinerator of the Guilty$1
+Innocent Bystander$1
+Inside Source$1
+Insidious Roots$1
+Intrude on the Mind$1
+Island$1
+It Doesn't Add Up$1
+Izoni, Center of the Web$1
+Jaded Analyst$1
+Judith, Carnage Connoisseur$1
+Karlov Watchdog$1
+Kaya, Spirits' Justice$1
+Kellan, Inquisitive Prodigy$1
+Tail the Suspect$1
+Knife$1
+Kraul Whipcracker$1
+Krenko, Baron of Tin Street$1
+Krenko's Buzzcrusher$1
+Krovod Haunch$1
+Kylox's Voltstrider$1
+Kylox, Visionary Inventor$1
+Lamplight Phoenix$1
+Lazav, Wearer of Faces$1
+Lead Pipe$1
+Leering Onlooker$1
+Leyline of the Guildpact$1
+Lightning Helix$1
+Living Conundrum$1
+Long Goodbye$1
+Lost in the Maze$1
+Loxodon Eavesdropper$1
+Lumbering Laundry$1
+Lush Portico$1
+Macabre Reconstruction$1
+Magnetic Snuffler$1
+Magnifying Glass$1
+Makeshift Binding$1
+Make Your Move$1
+Marketwatch Phantom$1
+Massacre Girl, Known Killer$1
+Meddling Youths$1
+Melek, Reforged Researcher$1
+Meticulous Archive$1
+Mistway Spy$1
+Mountain$1
+Murder$1
+Museum Nightwatch$1
+Neighborhood Guardian$1
+Nervous Gardener$1
+Nightdrinker Moroii$1
+Niv-Mizzet, Guildpact$1
+No More Lies$1
+Not on My Watch$1
+Novice Inspector$1
+No Witnesses$1
+Offender at Large$1
+Officious Interrogation$1
+On the Job$1
+Out Cold$1
+Outrageous Robbery$1
+Perimeter Enforcer$1
+Person of Interest$1
+Persuasive Interrogators$1
+Pick Your Poison$1
+Plains$1
+Polygraph Orb$1
+Pompous Gadabout$1
+Presumed Dead$1
+Private Eye$1
+Proft's Eidetic Memory$1
+Projektor Inspector$1
+Public Thoroughfare$1
+Push$1
+Pull$1
+Pyrotechnic Performer$1
+Rakdos, Patron of Chaos$1
+Rakish Scoundrel$1
+Raucous Theater$1
+Reasonable Doubt$1
+Reckless Detective$1
+Red Herring$1
+Reenact the Crime$1
+Relive the Past$1
+Repeat Offender$1
+Repulsive Mutation$1
+Riftburst Hellion$1
+Rope$1
+Rot Farm Mortipede$1
+Rubblebelt Braggart$1
+Rubblebelt Maverick$1
+Rune-Brand Juggler$1
+Sample Collector$1
+Sanctuary Wall$1
+Sanguine Savior$1
+Sanitation Automaton$1
+Scene of the Crime$1
+Seasoned Consultant$1
+Shadowy Backstreet$1
+Shady Informant$1
+Sharp-Eyed Rookie$1
+Shock$1
+Slice from the Shadows$1
+Slime Against Humanity$1
+Slimy Dualleech$1
+Snarling Gorehound$1
+Soul Enervation$1
+Soul Search$1
+Steamcore Scholar$1
+Sudden Setback$1
+Sumala Sentry$1
+Surveillance Monitor$1
+Suspicious Detonation$1
+Swamp$1
+Tenth District Hero$1
+Teysa, Opulent Oligarch$1
+The Chase Is On$1
+The Pride of Hull Clade$1
+They Went This Way$1
+Thinking Cap$1
+Thundering Falls$1
+Tin Street Gossip$1
+Tolsimir, Midnight's Light$1
+Tomik, Wielder of Law$1
+Topiary Panther$1
+Torch the Witness$1
+Toxin Analysis$1
+Treacherous Greed$1
+Trostani, Three Whispers$1
+Tunnel Tipster$1
+Unauthorized Exit$1
+Undercity Eliminator$1
+Undercity Sewers$1
+Undercover Crocodelf$1
+Underground Mortuary$1
+Undergrowth Recon$1
+Unscrupulous Agent$1
+Unyielding Gatekeeper$1
+Urgent Necropsy$1
+Vannifar, Evolved Enigma$1
+Vein Ripper$1
+Vengeful Creeper$1
+Vengeful Tracker$1
+Vitu-Ghazi Inspector$1
+Voja, Jaws of the Conclave$1
+Warleader's Call$1
+Wispdrinker Vampire$1
+Wojek Investigator$1
+Worldsoul's Rage$1
+Wrench$1
+Yarus, Roar of the Old Gods$1
+不留人证$1
+临时束缚$1
+任务出动$1
+克瓦兽腿肉骨$1
+内部线民$1
+刚毅门卫$1
+博物馆夜巡卫$1
+卡洛夫看守犬$1
+古迹菁华$1
+召集选手$1
+哈兹达警卫$1
+圣地围墙$1
+封锁线执法者$1
+尽心尽责$1
+巡市幽魅$1
+所视必管$1
+扳手$1
+朗报到来$1
+未动盛宴案$1
+案宗审计员$1
+欧瑞梨的雪恨使$1
+沃耶克调查员$1
+法院佣兽$1
+生手巡检员$1
+着手行动$1
+突召人证$1
+第十区勇士$1
+索尔兽门卫$1
+老练顾问$1
+街头监哨德雷尼$1
+证据遭窃案$1
+赦罪拉玛苏$1
+遗窗幽魅$1
+邻里守护兽$1
+门前快车案$1
+驭鹫追迹人$1
+一冻不醒$1
+仙儿飞空$1
+入侵心灵$1
+合理疑团$1
+吐泡走私客$1
+好奇探寻$1
+实验乱室案$1
+巧艺调查员$1
+布控监视员$1
+常理推断$1
+悬案破解灵$1
+戏剧性指控$1
+排除杂项$1
+擅自脱逃$1
+映射镜巡检员$1
+曝谋史芬斯$1
+止罪仙子$1
+法证灵械师$1
+法证研究员$1
+波费的清晰记忆$1
+活体谜团$1
+深洋犯罪学家$1
+烛台$1
+珍异猎鹰$1
+疲惫分析员$1
+突发挫败$1
+脱逃专家$1
+蒸气核学者$1
+证据拖累$1
+迷宫歧途$1
+遭窃猎鹰案$1
+重现罪行$1
+隐密大衣$1
+雾道探子$1
+面具之下$1
+鬼祟通讯使$1
+魔调局外侦员$1
+事理不通$1
+僻处白骨案$1
+凶案遍侦员$1
+咆哮血腥猎犬$1
+地底城索命客$1
+夜饮莫洛伊$1
+大教堂潜行客$1
+带刺随侍$1
+无度密探$1
+暗中杀出$1
+暗巷凶徒$1
+暗流干涉客$1
+毒理分析$1
+没收脑力$1
+泥泞双头蛭$1
+测谎法球$1
+溃伤蛭$1
+漫长告别$1
+灵魂衰弱$1
+知名凶手杀戮女郎$1
+空乏旁观客$1
+累犯恶徒$1
+腐尸农场杀生虫$1
+致命掩盖$1
+蛇发妖之吻案$1
+血脉开膛手$1
+认定死亡$1
+诱导诘问者$1
+谋杀$1
+逼供有招$1
+遭缉骨身兽$1
+铅管$1
+非法易容$1
+骇人劫案$1
+骇人重筑$1
+魔调局验尸官$1
+便捷目标$1
+克仑可的嗡坠虫$1
+凶蛮怒火$1
+加速遗赠$1
+匿藏武器$1
+厌械长臂猿$1
+可疑爆炸$1
+在逃巨犯$1
+安札格的狂愤$1
+小刀$1
+怨仇追迹人$1
+扰神红鱼械$1
+无忌侦探$1
+无辜旁观客$1
+暴露罪犯$1
+波朗族重击手$1
+涉案凶嫌$1
+漂泊破码客$1
+灯火凤凰$1
+烟火表演者$1
+犯罪小说家$1
+狂乱替罪羊$1
+瓦砾区吹嘘客$1
+电流光闪$1
+电震$1
+疲惫械机匠$1
+索求回答$1
+绯红线脉案$1
+罪人焚龙$1
+背水恶徒$1
+证人成炬$1
+连点成线$1
+追逐开始$1
+遭抓现行$1
+锡街爵主克仑可$1
+面具焚迹案$1
+鬼怪面具师$1
+事后分析师$1
+凶手在侧$1
+分析花粉$1
+反人淤泥$1
+咬定罪嫌$1
+壳进化组所傲$1
+复仇匍行怪$1
+完美不在场$1
+强硬问题$1
+当面匿踪$1
+挑选毒药$1
+描画轮廓$1
+更上层楼$1
+树篱语者$1
+样本收集员$1
+浮夸游荡客$1
+温房密室案$1
+烁亮织网蛛$1
+狂热驱力$1
+狼藉花园案$1
+瓦砾区独行客$1
+眼尖新手$1
+矮丛侦察$1
+禁伐林龇牙兽$1
+紧张的园丁$1
+绳索$1
+维图加基巡检员$1
+绿地闹事徒$1
+绿雕猎豹$1
+茁壮花身$1
+象族偷听客$1
+逃往这边$1
+阴沟伏击兽$1
+隧道情报贩$1
+面会卓塔妮$1
+高位德鲁伊护符$1
+三人传音卓塔妮$1
+世界之魂怒火$1
+侦探背包$1
+停止$1
+终止$1
+光亮金械龙兽$1
+刻洛藤鞭手$1
+化妖成团$1
+十会盟地脉$1
+十会盟尼米捷$1
+千面变换拉札夫$1
+午夜明光托西密$1
+卧底鳄身妖精$1
+厄时爆炸$1
+受迫杀人$1
+古神之吼雅鲁斯$1
+可疑线人$1
+品戮佳人裘蒂丝$1
+嗅探仙灵$1
+地动鼹鼠安札格$1
+大侦探阿奎斯波费$1
+失忠贪欲$1
+夺命逃犯艾庄塔$1
+夺命难题$1
+奇洛兹的电行械$1
+好奇尸身$1
+官式讯问$1
+幻视发明家奇洛兹$1
+律法使者托米克$1
+战领召令$1
+排斥变异$1
+控群护卫$1
+推出$1
+拉回$1
+搜索灵魂$1
+放浪恶棍$1
+杀手留念$1
+核证员$1
+梳理运河$1
+正义之魂阿固寇斯$1
+混沌护主拉铎司$1
+漂流$1
+偏流$1
+潜伏繁根$1
+灵械技师$1
+灵魂判官卡娅$1
+烙符杂耍客$1
+熙熙$1
+攘攘$1
+盟会尖颚沃亚$1
+破墙而出$1
+私家眼探$1
+索马拉哨卫$1
+紧急剖检$1
+终结谎言$1
+罗网中心依佐妮$1
+苍天铁律欧瑞梨$1
+葬于花园$1
+血色救助僧$1
+血迹分析$1
+裂缝地狱兽$1
+观路岗岩像$1
+误时青年$1
+进化谜团凡妮法$1
+遛狗民众$1
+重现过去$1
+重铸研究员梅列克$1
+锡街多嘴客$1
+闪电螺旋$1
+阔绰寡头泰莎$1
+饮灵吸血鬼$1
+魔调局局长伊泽霖$1
+麻烦$1
+打扰$1
+十会碎盟案$1
+保洁机械兽$1
+墓碑驮行像$1
+密码械$1
+思考帽$1
+放大镜$1
+磁性嗅探械$1
+笨拙洗衣像$1
+优雅客厅$1
+公众通路$1
+商贸城区$1
+喧闹剧院$1
+地下殓房$1
+地底城水道$1
+山脉$1
+平原$1
+整洁档案库$1
+暗影后巷$1
+树林$1
+树篱迷宫$1
+沼泽$1
+海岛$1
+维图加基分枝$1
+罪案现场$1
+脱逃暗道$1
+葱郁门廊$1
+雷鸣瀑布$1
+奇探逸才凯澜$1
+跟踪嫌犯$1
