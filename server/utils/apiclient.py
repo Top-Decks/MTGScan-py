@@ -1,5 +1,4 @@
 import requests
-import ssl
 
 
 def call_meta_api(url, payload):
@@ -11,13 +10,8 @@ def call_meta_api(url, payload):
             "User-Agent": "insomnia/8.6.0"
         }
 
-        ssl._create_default_https_context = ssl._create_unverified_context
-
-        context = ssl.SSLContext(ssl.PROTOCOL_TLSv1_2)
-        context.verify_mode = ssl.CERT_REQUIRED
-
         response = requests.post(
-            url, json=payload, headers=headers, ssl_context=context)
+            url, json=payload, headers=headers)
         if response.status_code == 200:
             return response.json()
         else:
