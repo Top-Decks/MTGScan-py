@@ -1,7 +1,7 @@
 from flask_socketio import SocketIO
 from mtgscan.text import MagicRecognition
 from mtgscan.ocr.azure import Azure
-from flask import Flask, jsonify, render_template
+from flask import Flask, jsonify, render_template, request
 from celery import Celery, Task
 from pathlib import Path
 import os
@@ -9,6 +9,8 @@ import base64
 import eventlet
 from utils.oss import OSSUtil
 from datetime import datetime
+from utils.apiclient import get_cards_info
+
 eventlet.monkey_patch()
 
 
@@ -62,6 +64,30 @@ def scan(rec, msg):
     deck = rec.box_texts_to_deck(box_texts)
     img = box_cards.get_image(msg.get("image_64", msg["image"]))
     return deck, img
+
+
+@app.route("/api/fuzzy_search", methods=["POST"])
+def api_search_cards():
+
+    card_names_text = request.json["text"]  # 获取包含卡牌名称的字符串数组
+    rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
+                           file_keywords=(DIR_DATA / "Keywords.json"),
+                           max_ratio_diff=0.3)
+    cards = []
+    for text in card_names_text:
+        card = rec._search(text)
+        if card:
+            cards.append(card)
+
+    print("api_search_cards")
+    print(cards)
+    # box_cards = rec.box_texts_to_cards(box_texts)
+    # deck = rec.box_texts_to_deck(box_texts)
+    cards_info = get_cards_info(cards, None)
+
+    return jsonify({"cards":  cards_info.get("data", []), "cards_names": cards})
+
+    return jsonify({"cards": cards})
 
 
 @app.route("/api/<path:url>")
