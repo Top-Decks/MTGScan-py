@@ -70,6 +70,7 @@ def scan(rec, msg):
 def api_search_cards():
 
     card_names_text = request.json["text"]  # 获取包含卡牌名称的字符串数组
+    language = request.json.get("language", None)  # 获取语言
     rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
                            file_keywords=(DIR_DATA / "Keywords.json"),
                            max_ratio_diff=0.3)
@@ -83,11 +84,9 @@ def api_search_cards():
     print(cards)
     # box_cards = rec.box_texts_to_cards(box_texts)
     # deck = rec.box_texts_to_deck(box_texts)
-    cards_info = get_cards_info(cards, None)
+    cards_info = get_cards_info(cards, language)
 
     return jsonify({"cards":  cards_info.get("data", []), "cards_names": cards})
-
-    return jsonify({"cards": cards})
 
 
 @app.route("/api/<path:url>")
