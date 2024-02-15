@@ -8,7 +8,6 @@ import os
 import base64
 from utils.oss import OSSUtil
 from datetime import datetime
-from utils.apiclient import get_cards_info
 import eventlet
 eventlet.monkey_patch()
 
@@ -83,9 +82,9 @@ def api_search_cards():
     print(cards)
     # box_cards = rec.box_texts_to_cards(box_texts)
     # deck = rec.box_texts_to_deck(box_texts)
-    cards_info = get_cards_info(cards, language)
+    # cards_info = get_cards_info(cards, language)
 
-    return jsonify({"cards":  cards_info.get("data", []), "cards_names": cards})
+    return jsonify({"cards_names": cards})
 
 
 @app.route("/api/<path:url>")
