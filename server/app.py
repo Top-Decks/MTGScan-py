@@ -6,11 +6,10 @@ from celery import Celery, Task
 from pathlib import Path
 import os
 import base64
-import eventlet
 from utils.oss import OSSUtil
 from datetime import datetime
 from utils.apiclient import get_cards_info
-
+import eventlet
 eventlet.monkey_patch()
 
 
