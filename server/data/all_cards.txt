@@ -27169,3 +27169,684 @@ Yarus, Roar of the Old Gods$1
 雷鸣瀑布$1
 奇探逸才凯澜$1
 跟踪嫌犯$1
+Collector's Cage$1
+Fell the Mighty$1
+Another Round$1
+Essence Capture$1
+Hostile Investigator$1
+Eriette's Lullaby$1
+Rattleback Apothecary$1
+Raven of Fell Omens$1
+Rictus Robber$1
+Rooftop Assassin$1
+Rush of Dread$1
+Servant of the Stinger$1
+Shoot the Sheriff$1
+Skulduggery$1
+Tinybones Joins Up$1
+Tinybones, the Pickpocket$1
+Final Showdown$1
+Mana Drain$1
+Generous Plunderer$1
+Treasure Dredger$1
+Unfortunate Accident$1
+Unscrupulous Contractor$1
+Vadmir, New Blood$1
+Vault Plunderer$1
+Brimstone Roundup$1
+Calamity, Galloping Inferno$1
+Caught in the Crossfire$1
+Cunning Coyote$1
+Deadeye Duelist$1
+Mindbreak Trap$1
+Legion Extruder$1
+Fortune, Loyal Steed$1
+Demonic Ruckus$1
+Discerning Peddler$1
+Explosive Derailment$1
+Ferocification$1
+Gila Courser$1
+Great Train Heist$1
+Hell to Pay$1
+Hellspur Brute$1
+Hellspur Posse Boss$1
+Highway Robbery$1
+Memory Vessel$1
+Repulse$1
+Frontier Seeker$1
+Irascible Wolverine$1
+Iron-Fist Pulverizer$1
+Longhorn Sharpshooter$1
+Magda, the Hoardmaster$1
+Magebane Lizard$1
+Mine Raider$1
+Outlaws' Fury$1
+Prickly Pair$1
+Quick Draw$1
+Quilled Charger$1
+Heartless Pillage$1
+Getaway Glamer$1
+Molten Duplication$1
+Reckless Lackey$1
+Resilient Roadrunner$1
+Return the Favor$1
+Rodeo Pyromancers$1
+Scalestorm Summoner$1
+Scorching Shot$1
+Slickshot Show-Off$1
+Stingerback Terror$1
+Take for a Ride$1
+Terror of the Peaks$1
+Territory Forge$1
+High Noon$1
+Imp's Mischief$1
+Thunder Salvo$1
+Trick Shot$1
+Aloe Alchemist$1
+Ankle Biter$1
+Beastbond Outcaster$1
+Betrayal at the Vault$1
+Bristlepack Sentry$1
+Bristly Bill, Spine Sower$1
+Cactarantula$1
+Colossal Rattlewurm$1
+Murder$1
+Ancient Cornucopia$1
+Holy Cow$1
+Dance of the Tumbleweeds$1
+Drover Grizzly$1
+Freestrider Commando$1
+Freestrider Lookout$1
+Full Steam Ahead$1
+Giant Beaver$1
+Gold Rush$1
+Goldvein Hydra$1
+Hardbristle Bandit$1
+Intrepid Stablemaster$1
+Overwhelming Forces$1
+Bristlebud Farmer$1
+Inventive Wingsmith$1
+Map the Frontier$1
+Ornery Tumblewagg$1
+Outcaster Greenblade$1
+Outcaster Trailblazer$1
+Patient Naturalist$1
+Railway Brawler$1
+Rambling Possum$1
+Raucous Entertainer$1
+Reach for the Sky$1
+Rise of the Varmints$1
+Omenpath Journey$1
+Reanimate$1
+Lassoed by the Law$1
+Smuggler's Surprise$1
+Snakeskin Veil$1
+Spinewoods Armadillo$1
+Spinewoods Paladin$1
+Stubborn Burrowfiend$1
+Throw from the Saddle$1
+Trash the Town$1
+Tumbleweed Rising$1
+Voracious Varmint$1
+Akul the Unrepentant$1
+Sandstorm Salvager$1
+Surgical Extraction$1
+Mystical Tether$1
+Annie Flash, the Veteran$1
+Annie Joins Up$1
+Assimilation Aegis$1
+At Knifepoint$1
+Badlands Revival$1
+Baron Bertram Graywater$1
+Bonny Pall, Clearcutter$1
+Breeches, the Blastmaker$1
+Bruse Tarl, Roving Rancher$1
+Cactusfolk Sureshot$1
+Grand Abolisher$1
+Fierce Retribution$1
+Archangel of Tithes$1
+Thoughtseize$1
+Nurturing Pixie$1
+Vaultborn Tyrant$1
+Congregation Gryff$1
+Doc Aurlock, Grizzled Genius$1
+Eriette, the Beguiler$1
+Ertha Jo, Frontier Mentor$1
+Form a Posse$1
+Ghired, Mirror of the Wilds$1
+The Gitrog, Ravenous Ride$1
+Honest Rutstein$1
+Intimidation Campaign$1
+Jem Lightfoote, Sky Explorer$1
+Omenport Vigilante$1
+Collective Defiance$1
+Loot, the Key to Everything$1
+Jolene, Plundering Pugilist$1
+Kambal, Profiteering Mayor$1
+Kellan Joins Up$1
+Kellan, the Kid$1
+Kraum, Violent Cacophony$1
+Laughing Jasper Flint$1
+Lazav, Familiar Stranger$1
+Lilah, Undefeated Slickshot$1
+Make Your Own Luck$1
+Malcolm, the Eyes$1
+Crackle with Power$1
+One Last Job$1
+Pest Control$1
+Marchesa, Dealer of Death$1
+Miriam, Herd Whisperer$1
+Obeka, Splitter of Seconds$1
+Oko, the Ringleader$1
+Pillage the Bog$1
+Rakdos Joins Up$1
+Rakdos, the Muscle$1
+Riku of Many Paths$1
+Roxanne, Starfall Savant$1
+Ruthless Lawbringer$1
+Electrodominance$1
+Lost Jitte$1
+Outlaw Medic$1
+Satoru, the Infiltrator$1
+Selvala, Eager Trailblazer$1
+Seraphic Steed$1
+Slick Sequence$1
+Taii Wakeen, Perfect Shot$1
+Vial Smasher, Gleeful Grenadier$1
+Vraska Joins Up$1
+Vraska, the Silencer$1
+Wrangler of the Damned$1
+Wylie Duke, Atiin Hero$1
+Fling$1
+Prairie Dog$1
+Lotus Ring$1
+Bandit's Haul$1
+Boom Box$1
+Gold Pan$1
+Lavaspur Boots$1
+Luxurious Locomotive$1
+Mobile Homestead$1
+Oasis Gardener$1
+Redrock Sentinel$1
+Silver Deputy$1
+Sterling Hound$1
+Prosperity Tycoon$1
+Nexus of Becoming$1
+Indomitable Creativity$1
+Tomb Trawler$1
+Abraded Bluffs$1
+Arid Archway$1
+Bristling Backwoods$1
+Conduit Pylons$1
+Creosote Heath$1
+Eroded Canyon$1
+Festering Gulch$1
+Forlorn Flats$1
+Jagged Barrens$1
+Skewer the Critics$1
+Requisition Raid$1
+Sword of Wealth and Power$1
+Lonely Arroyo$1
+Lush Oasis$1
+Mirage Mesa$1
+Sandstorm Verge$1
+Soured Springs$1
+Bucolic Ranch$1
+Blooming Marsh$1
+Botanical Sanctum$1
+Concealed Courtyard$1
+Inspiring Vantage$1
+Skullcrack$1
+Torpor Orb$1
+Rustler Rampage$1
+Spirebluff Canal$1
+Jace Reawakened$1
+Plains$1
+Transmutation Font$1
+Shepherd of the Clouds$1
+Clear Shot$1
+Sheriff of Safe Passage$1
+Force of Vigor$1
+Fomori Vault$1
+Journey to Nowhere$1
+Oltec Matterweaver$1
+Armored Armadillo$1
+Stagecoach Security$1
+Tarnation Vista$1
+Pest Infestation$1
+Primal Command$1
+Steer Clear$1
+Primal Might$1
+Sterling Keykeeper$1
+Sterling Supplier$1
+Thornado$1
+Abrupt Decay$1
+Take Up the Shield$1
+Thunder Lasso$1
+Anguished Unmaking$1
+Trained Arynx$1
+Back for More$1
+Vengeful Townsfolk$1
+Bedevil$1
+Wanted Griffin$1
+Buried in the Garden$1
+Crime // Punishment$1
+Leyline Binding$1
+Cruel Ultimatum$1
+Canyon Crab$1
+Daring Thunder-Thief$1
+Decimate$1
+Deepmuck Desperado$1
+Decisive Denial$1
+Detention Sphere$1
+Djinn of Fool's Fall$1
+Endless Detour$1
+Fractured Identity$1
+Emergent Haunting$1
+Hindering Light$1
+Humiliate$1
+Failed Fording$1
+Hypothesizzle$1
+Ionize$1
+Fleeting Reflection$1
+Bounding Felidar$1
+Pariah$1
+Oko, Thief of Crowns$1
+Outlaws' Merriment$1
+Geyser Drake$1
+Ride Down$1
+Harrier Strix$1
+Jailbreak Scheme$1
+Savage Smash$1
+Siphon Insight$1
+Loan Shark$1
+Terminal Agony$1
+Marauding Sphinx$1
+Tyrant's Scorn$1
+Metamorphic Blast$1
+Vanishing Verse$1
+Villainous Wealth$1
+Void Rend$1
+Outlaw Stitcher$1
+Bovine Intervention$1
+Path to Exile$1
+Voidslime$1
+Peerless Ropemaster$1
+Contagion Engine$1
+Phantom Interference$1
+Plan the Heist$1
+Grindstone$1
+Razzle-Dazzler$1
+Mindslaver$1
+Seize the Secrets$1
+Unlicensed Hearse$1
+Shackle Slinger$1
+Dust Bowl$1
+Shifting Grift$1
+Slickshot Lockpicker$1
+Slickshot Vault-Buster$1
+Spring Splasher$1
+Bridled Bighorn$1
+Archive Trap$1
+Stop Cold$1
+Take the Fall$1
+This Town Ain't Big Enough$1
+Visage Bandit$1
+Binding Negotiation$1
+Blacksnag Buzzard$1
+Archmage's Charm$1
+Blood Hustler$1
+Boneyard Desecrator$1
+Consuming Ashes$1
+Corrupted Conviction$1
+Desert's Due$1
+Desperate Bloodseeker$1
+Fake Your Own Death$1
+Forsaken Miner$1
+Commandeer$1
+Hollow Marauder$1
+Lively Dirge$1
+Mourner's Surprise$1
+Neutralize the Guards$1
+Nezumi Linkbreaker$1
+Rakish Crew$1
+收集者秘笼$1
+以弱制强$1
+再来一杯$1
+捕捉菁华$1
+敌对调查员$1
+艾纶缇的摇篮曲$1
+响尾背药师$1
+恶兆乌鸦$1
+咧嘴劫匪$1
+屋顶杀手$1
+惧尸猛冲$1
+刺针仆人$1
+击杀警长$1
+阴谋诡计$1
+细骨入伙$1
+扒手细骨$1
+最终对决$1
+汲取魔力$1
+慷慨劫掠客$1
+宝藏挖掘客$1
+不幸事故$1
+无度承判人$1
+新血瓦米尔$1
+宝库劫掠客$1
+硫雾驱集$1
+疾驰狱火灾祸$1
+卷入争端$1
+黠智郊狼$1
+神准斗客$1
+歼智陷阱$1
+军团塑型仪$1
+忠诚骏骑福琼$1
+魔头骚动$1
+识货小贩$1
+爆破脱轨$1
+凶猛恶煞$1
+毒蜥骑兽$1
+火车大劫案$1
+严厉惩罚$1
+炼刺帮蛮汉$1
+炼刺帮团匪首领$1
+大道抢劫$1
+记忆皿$1
+逐退$1
+边疆探寻者$1
+易怒狼獾$1
+铁拳粉碎者$1
+曲角神射手$1
+囤宝大师玛格妲$1
+克法蜥蜴$1
+矿井劫客$1
+狂徒之怒$1
+仙掌双人$1
+快速击火$1
+刺毛冲锋兽$1
+无情劫掠$1
+脱逃幻法$1
+熔铸复体$1
+鲁莽跟班$1
+活力走鹃$1
+同等回报$1
+竞演烈焰术士$1
+鳞暴唤师$1
+焦热击$1
+花枪帮炫耀师$1
+刺针背惧龙$1
+暂借坐骑$1
+峰顶惧龙$1
+领地煅冶炉$1
+日正当中$1
+小恶魔的作弄$1
+光雷迸发$1
+特技打击$1
+芦荟炼金术士$1
+啮踝毒蛇$1
+莽野帮兽绊人$1
+库前背叛$1
+棘群哨卫$1
+锐刺播种师尖棘比利$1
+仙掌狼蛛$1
+庞巨响尾亚龙$1
+谋杀$1
+远古羊角$1
+神牛$1
+风滚草翻舞$1
+驱群灰熊$1
+畅行帮突击手$1
+畅行帮警戒员$1
+全速前进$1
+巨型河狸$1
+淘金热潮$1
+金脉多头龙$1
+硬鬃镇盗匪$1
+无畏厩馆主$1
+压倒性武力$1
+棘芽农夫$1
+创新翼匠$1
+描绘边疆$1
+暴躁滚枝兽$1
+莽野帮碧剑客$1
+莽野帮开路人$1
+循常归真师$1
+铁路好斗客$1
+信步负鼠$1
+嘈杂艺人$1
+延势展空$1
+害兽涌袭$1
+预兆路旅程$1
+活尸法$1
+难逃法索$1
+私商惊袭$1
+蛇皮帘幕$1
+棘林犰狳$1
+棘林神圣武士$1
+顽固伏穴兽$1
+甩下鞍座$1
+毁坏镇区$1
+风滚草涌起$1
+贪饕害兽$1
+执迷不悟的阿库尔$1
+沙暴回收客$1
+手术摘除$1
+神秘栓链$1
+探险老手电闪安妮$1
+安妮入伙$1
+同化神盾$1
+持刀相逼$1
+荒地重生$1
+贝特伦灰水男爵$1
+利落樵女伯妮帕$1
+爆破手布里奇$1
+逡巡牧主布斯陶$1
+善射仙掌人$1
+止咒高僧$1
+凶暴报偿$1
+什一税大天使$1
+攫取思绪$1
+育幼碧仙$1
+库生暴霸龙$1
+聚群骏鹭$1
+天才灰熊道奥洛克$1
+惑志巫婆艾纶缇$1
+边疆导师尔莎乔$1
+结成团匪$1
+荒野明镜吉雷德$1
+血口坐骑噬人蛙怪$1
+诚实的鲁斯登$1
+散布威吓$1
+探空斥候简莱福$1
+预兆港义警$1
+携手反抗$1
+万物关键烂宝$1
+劫夺拳手乔琳$1
+牟利镇长坎拔$1
+凯澜入伙$1
+凯澜小子$1
+暴力异音寇姆$1
+笑面客燧火贾斯珀$1
+熟面生客拉札夫$1
+不败花枪莉拉$1
+实力作福$1
+眼目马科姆$1
+聚力劈响$1
+最后一票$1
+害虫防治$1
+送终客玛切莎$1
+兽群语者米莉安$1
+裂时术师欧蓓卡$1
+魁首瓯柯$1
+掠夺腐沼$1
+拉铎司入伙$1
+帮凶魔头拉铎司$1
+诸途黎库$1
+落星学者罗珊妮$1
+无情裁罚者$1
+控驭电能$1
+失落的十手$1
+狂徒医士$1
+渗透者梅泽悟$1
+开拓急锋塞瓦拉$1
+炽净驹$1
+顺势连环$1
+精准射手泰依瓦肯$1
+欢乐榴弹手砸瓶女$1
+瓦丝卡入伙$1
+销音蛇妖瓦丝卡$1
+厄亡者驯师$1
+亚廷勇士威利杜克$1
+投掷$1
+草原犬鼠$1
+莲花戒$1
+劫匪赃物$1
+爆破箱$1
+淘金盘$1
+熔刺靴$1
+奢华车头$1
+可动家舍$1
+绿洲园丁$1
+赤岩谷哨卫$1
+亮银警官$1
+银光社猎犬$1
+兴旺镇大亨$1
+形变连结点$1
+无畏创新$1
+墓碑曳行像$1
+风侵绝壁$1
+不毛拱门$1
+棘刺僻林$1
+通导缆塔$1
+馏木荒地$1
+销蚀峡谷$1
+溃腐冲沟$1
+凄凉平野$1
+嶙峋荒漠$1
+遏止倒彩$1
+征用突袭$1
+财势剑$1
+孤僻荒溪$1
+富庶绿洲$1
+蜃景台地$1
+沙暴边陲$1
+酸腐涌泉$1
+乡野牧场$1
+花开沼地$1
+植物圣所$1
+隐秘庭院$1
+启迪胜地$1
+碎颅击$1
+迟钝法球$1
+牛贼狂奔$1
+尖塔崖天渠$1
+重新觉醒的杰斯$1
+易质洗礼池$1
+牧云飞马$1
+精准一击$1
+安全径警长$1
+活旺之力$1
+佛莫里宝库$1
+未知旅程$1
+欧尔特克织质匠$1
+披坚犰狳$1
+驿马车警卫$1
+恶狱镇街景$1
+害虫侵扰$1
+原初指命$1
+扭身甩开$1
+原初之力$1
+银光社守钥人$1
+银光社补给兵$1
+棘龙卷$1
+突发衰败$1
+举盾护卫$1
+光雷投索$1
+哀恸归虚$1
+驯使猛猁$1
+返身再战$1
+复仇镇民$1
+糟蹋$1
+遭缉狮鹫$1
+葬于花园$1
+罪行 // 惩罚$1
+地脉束缚$1
+残酷通牒$1
+峡谷晶蟹$1
+大胆光雷盗$1
+摧残$1
+深淤地亡命客$1
+定念拒斥$1
+扣留法球$1
+愚人瀑巨灵$1
+无尽迂回$1
+碎裂认同$1
+新魂萦绕$1
+阻碍之光$1
+恣意羞辱$1
+涉水遇险$1
+破颅假想$1
+电离化$1
+映影飞逝$1
+弹跃晶角兽$1
+贱民$1
+窃冠瓯柯$1
+狂徒嬉戏$1
+热泉龙兽$1
+踏平$1
+飞掠鹞枭$1
+越狱阴谋$1
+蛮野猛击$1
+吸取视界$1
+放贷狂鲨$1
+终极苦痛$1
+劫掠史芬斯$1
+暴君的轻蔑$1
+拟形冲击$1
+驱灵诗篇$1
+不义之财$1
+化作虚无$1
+狂徒拼接师$1
+神牛干预$1
+流放之径$1
+虚空黏泞$1
+绝伦舞绳客$1
+传染引擎$1
+幻影干预$1
+策划劫案$1
+碎末石碾$1
+缭乱炫目师$1
+驭灵械$1
+强夺秘密$1
+无牌灵车$1
+镣铐掷手$1
+尘土盆地$1
+变幻诈欺$1
+花枪帮撬锁客$1
+花枪帮袭库客$1
+涌泉溅水蛙$1
+御辔巨角羊$1
+档案陷阱$1
+寒冰令止$1
+代人受罪$1
+一镇难容二虎$1
+窃面盗匪$1
+束身谈判$1
+墨钩沼兀鹰$1
+大法师的护符$1
+鲜血诈徒$1
+骨场渎尸客$1
+噬人灰烬$1
+腐化信念$1
+沙漠攫命$1
+亡命觅血客$1
+自伪身故$1
+遭弃矿工$1
+霸占$1
+空幽劫掠者$1
+唤生挽歌$1
+悼者惊喜$1
+解决守卫$1
+破链鼠人$1
+放浪团伙$1
