@@ -27850,3 +27850,663 @@ Rakish Crew$1
 解决守卫$1
 破链鼠人$1
 放浪团伙$1
+Breaker of Creation$1
+Devourer of Destiny$1
+Drownyard Lurker$1
+Echoes of Eternity$1
+Eldrazi Ravager$1
+Emrakul, the World Anew$1
+Glaring Fleshraker$1
+Herigast, Erupting Nullkite$1
+It That Heralds the End$1
+Kozilek, the Broken Reality$1
+Kozilek's Command$1
+Null Elemental Blast$1
+Nulldrifter$1
+Twisted Riddlekeeper$1
+Ulamog, the Defiler$1
+Warped Tusker$1
+Wastescape Battlemage$1
+Aerie Auxiliary$1
+Ajani Fells the Godsire$1
+Argent Dais$1
+Charitable Levy$1
+Dog Umbra$1
+Envoy of the Ancestors$1
+Essence Reliquary$1
+Expel the Unworthy$1
+Flare of Fortitude$1
+Glyph Elemental$1
+Guardian of the Forgotten$1
+Guide of Souls$1
+Hexgold Slith$1
+Indebted Spirit$1
+Inspired Inventor$1
+Jolted Awake$1
+Mandibular Kite$1
+Metastatic Evangel$1
+Muster the Departed$1
+Nyxborn Unicorn$1
+Ocelot Pride$1
+Pearl-Ear, Imperial Advisor$1
+Phelia, Exuberant Shepherd$1
+Proud Pack-Rhino$1
+Rosecot Knight$1
+Solstice Zealot$1
+Static Prison$1
+Thraben Charm$1
+Voltstorm Angel$1
+White Orchid Phantom$1
+Wing It$1
+Wrath of the Skies$1
+Aether Spike$1
+Amphibian Downpour$1
+Bespoke Battlewagon$1
+Brainsurge$1
+Consign to Memory$1
+Copycrook$1
+Corrupted Shapeshifter$1
+Deem Inferior$1
+Depth Defiler$1
+Dreamtide Whale$1
+Electrozoa$1
+Emrakul's Messenger$1
+Flare of Denial$1
+Harbinger of the Seas$1
+Hope-Ender Coatl$1
+Kozilek's Unsealing$1
+Petrifying Meddler$1
+Roil Cartographer$1
+Sage of the Unknowable$1
+Serum Visionary$1
+Shadow of the Second Sun$1
+Strix Serenade$1
+Tamiyo Meets the Story Circle$1
+Tempest Harvester$1
+Triton Wavebreaker$1
+Tune the Narrative$1
+Ugin's Binding$1
+Unfathomable Truths$1
+Utter Insignificance$1
+Volatile Stormdrake$1
+Accursed Marauder$1
+Arcbound Condor$1
+Breathe Your Last$1
+Chthonian Nightmare$1
+Consuming Corruption$1
+Crabomination$1
+The Creation of Avacyn$1
+Dreadmobile$1
+Dreamdrinker Vampire$1
+Drossclaw$1
+Emperor of Bones$1
+Etched Slith$1
+Etherium Pteramander$1
+Eviscerator's Insight$1
+Fetid Gargantua$1
+Flare of Malice$1
+Gravedig$1
+Grim Servant$1
+Kami of Jealous Thirst$1
+Lethal Throwdown$1
+Marionette Apprentice$1
+Mindless Conscription$1
+Necrodominance$1
+Nethergoyf$1
+Quest for the Necropolis$1
+Refurbished Familiar$1
+Retrofitted Transmogrant$1
+Ripples of Undeath$1
+Scurrilous Sentry$1
+Shilgengar, Sire of Famine$1
+Warren Soultrader$1
+Wither and Bloom$1
+Wurmcoil Larva$1
+Aether Revolt$1
+Amped Raptor$1
+Ashling, Flame Dancer$1
+Detective's Phoenix$1
+Eldrazi Linebreaker$1
+Fanged Flames$1
+Flare of Duplication$1
+Frogmyr Enforcer$1
+Furnace Hellkite$1
+Galvanic Discharge$1
+Ghostfire Slice$1
+Glimpse the Impossible$1
+Infernal Captor$1
+Inventor's Axe$1
+Mogg Mob$1
+Molten Gatekeeper$1
+Party Thrasher$1
+Phyrexian Ironworks$1
+Powerbalance$1
+Ral and the Implicit Maze$1
+Reckless Pyrosurfer$1
+Reiterating Bolt$1
+Sarpadian Simulacrum$1
+Siege Smash$1
+Skittering Precursor$1
+Skoa, Embermage$1
+Smelted Chargebug$1
+Spawn-Gang Commander$1
+Thriving Skyclaw$1
+Unstable Amulet$1
+Voidpouncer$1
+Wheel of Potential$1
+Basking Broodscale$1
+Birthing Ritual$1
+Collective Resistance$1
+Colossal Dreadmask$1
+Eladamri, Korvecdal$1
+Eldrazi Repurposer$1
+Evolution Witness$1
+Fanatic of Rhonas$1
+Fangs of Kalonia$1
+Flare of Cultivation$1
+Fowl Strike$1
+Gift of the Viper$1
+Horrific Assault$1
+The Hunger Tide Rises$1
+Hydra Trainer$1
+Lion Umbra$1
+Malevolent Rumble$1
+Monstrous Vortex$1
+Nightshade Dryad$1
+Nyxborn Hydra$1
+Path of Annihilation$1
+Primal Prayers$1
+Propagator Drone$1
+Signature Slam$1
+Six$1
+Sowing Mycospawn$1
+Springheart Nantuko$1
+Temperamental Oozewagg$1
+Territory Culler$1
+Thief of Existence$1
+Trickster's Elk$1
+Wumpus Aberration$1
+Abstruse Appropriation$1
+Arna Kennerüd, Skycaptain$1
+Conduit Goblin$1
+Cranial Ram$1
+Cursed Wombat$1
+Cyclops Superconductor$1
+Emissary of Soulfire$1
+Expanding Ooze$1
+Faithful Watchdog$1
+Genku, Future Shaper$1
+Golden-Tail Trainer$1
+Horrid Shadowspinner$1
+Imskir Iron-Eater$1
+Invert Polarity$1
+Izzet Generatorium$1
+Kudo, King Among Bears$1
+Nadu, Winged Wisdom$1
+The Necrobloom$1
+Obstinate Gargoyle$1
+Ondu Knotmaster$1
+Throw a Line$1
+Phlage, Titan of Fire's Fury$1
+Planar Genesis$1
+Psychic Frog$1
+Pyretic Rebirth$1
+Riddle Gate Gargoyle$1
+Rosheen, Roaring Prophet$1
+Scurry of Gremlins$1
+Snapping Voidcraw$1
+Sneaky Snacker$1
+Titans' Vanguard$1
+Wight of the Reliquary$1
+Writhing Chrysalis$1
+Disruptor Flute$1
+Idol of False Gods$1
+Solar Transformer$1
+Vexing Bauble$1
+Winter Moon$1
+Archway of Innovation$1
+Arena of Glory$1
+Bloodstained Mire$1
+Bountiful Landscape$1
+Contaminated Landscape$1
+Deceptive Landscape$1
+Flooded Strand$1
+Foreboding Landscape$1
+Monumental Henge$1
+Perilous Landscape$1
+Polluted Delta$1
+Seething Landscape$1
+Shattered Landscape$1
+Sheltering Landscape$1
+Shifting Woodland$1
+Snow-Covered Wastes$1
+Spymaster's Vault$1
+Tranquil Landscape$1
+Twisted Landscape$1
+Ugin's Labyrinth$1
+Urza's Cave$1
+Windswept Heath$1
+Wooded Foothills$1
+Ajani, Nacatl Pariah$1
+Ajani, Nacatl Avenger$1
+Razorgrass Ambush$1
+Razorgrass Field$1
+Witch Enchanter$1
+Witch-Blessed Meadow$1
+Hydroelectric Specimen$1
+Hydroelectric Laboratory$1
+Sink into Stupor$1
+Soporific Springs$1
+Tamiyo, Inquisitive Student$1
+Tamiyo, Seasoned Scholar$1
+Boggart Trawler$1
+Boggart Bog$1
+Fell the Profane$1
+Fell Mire$1
+Sorin of House Markov$1
+Sorin, Ravenous Neonate$1
+Pinnacle Monk$1
+Mystic Peak$1
+Ral, Monsoon Mage$1
+Ral, Leyline Prodigy$1
+Sundering Eruption$1
+Volcanic Fissure$1
+Bridgeworks Battle$1
+Tanglespan Bridgeworks$1
+Disciple of Freyalise$1
+Garden of Freyalise$1
+Grist, Voracious Larva$1
+Grist, the Plague Swarm$1
+Bloodsoaked Insight$1
+Sanguine Morass$1
+Drowner of Truth$1
+Drowned Jungle$1
+Glasswing Grace$1
+Age-Graced Chapel$1
+Legion Leadership$1
+Legion Stronghold$1
+Revitalizing Repast$1
+Old-Growth Grove$1
+Rush of Inspiration$1
+Crackling Falls$1
+Strength of the Harvest$1
+Haven of the Harvest$1
+Stump Stomp$1
+Burnwillow Clearing$1
+Suppression Ray$1
+Orderly Plaza$1
+Waterlogged Teachings$1
+Inundated Archive$1
+Angel of the Ruins$1
+Decree of Justice$1
+Distinguished Conjurer$1
+Orim's Chant$1
+Recruiter of the Guard$1
+Sevinne's Reclamation$1
+Deep Analysis$1
+Estrid's Invocation$1
+Kappa Cannoneer$1
+Reef Worm$1
+Shrieking Drake$1
+Buried Alive$1
+K'rrik, Son of Yawgmoth$1
+Nadier's Nightblade$1
+Ophiomancer$1
+Toxic Deluge$1
+Victimize$1
+Cursed Mirror$1
+Fledgling Dragon$1
+Laelia, the Blade Reforged$1
+Meltdown$1
+Meteoric Mace$1
+Annoyed Altisaur$1
+Branching Evolution$1
+Priest of Titania$1
+Sylvan Safekeeper$1
+Wirewood Symbiote$1
+Breya, Etherium Shaper$1
+Kaalia of the Vast$1
+Emerald Medallion$1
+Jet Medallion$1
+Junk Diver$1
+Pearl Medallion$1
+Ruby Medallion$1
+Sapphire Medallion$1
+Urza's Incubator$1
+Worn Powerstone$1
+Barbarian Ring$1
+Cephalid Coliseum$1
+Deserted Temple$1
+Nesting Grounds$1
+Phyrexian Tower$1
+Flusterstorm$1
+造物破坏体$1
+命运吞噬体$1
+沉船地伏击虫$1
+永恒回响$1
+劫夺奥札奇$1
+世界一新伊莫库$1
+眩目片肉体$1
+喷焰虚虐体赫厉轧$1
+示终恶体$1
+实界破碎寇基雷$1
+寇基雷的指命$1
+虚元素冲击波$1
+漂虚体$1
+扭曲守谜体$1
+渎界秽体钨拉莫$1
+拧曲长牙野猪$1
+废景院战巫师$1
+龙巢援军$1
+阿耶尼戮宗神$1
+银蚀高台$1
+征赋济贫$1
+狗本影$1
+先祖传音僧$1
+精魂圣物$1
+驱逐末流$1
+刚毅眩闪$1
+图符元素$1
+遭忘者守卫$1
+导灵僧$1
+金角板斯立兹$1
+蒙债精怪$1
+受启发明家$1
+震动唤醒$1
+颚齿筝$1
+促蚀福音师$1
+召集逝者$1
+天裔独角兽$1
+豹猫群$1
+皇室谏臣珠耳$1
+亢奋牧犬费利亚$1
+高傲负重犀$1
+洛丝柯骑士$1
+日至狂信者$1
+静态拘禁$1
+瑟班护符$1
+激电暴天使$1
+白兰幽魅$1
+翼时起飞$1
+天空之怒$1
+乙太钉$1
+天降蛙人$1
+订制陆行舰$1
+脑力涌动$1
+托诸记忆$1
+模仿盗$1
+腐化变形兽$1
+判言低劣$1
+深渊渎体$1
+梦潮鲸鱼$1
+电流佐雅$1
+伊莫库的信使$1
+拒斥眩闪$1
+海疆先兆师$1
+终望寇特蛇$1
+寇基雷解印$1
+石化干涉体$1
+狂搅制图师$1
+不可知智者$1
+浆液幻视师$1
+神日阴影$1
+猛枭夜曲$1
+多美代遇传典会$1
+风暴集获师$1
+破浪屈东$1
+叙事调律$1
+乌金的束缚$1
+深邃真相$1
+究极微渺$1
+动荡暴龙兽$1
+受诅劫掠者$1
+能缰兀鹰$1
+最终一息$1
+阴冥魇境$1
+噬物腐化$1
+憎恶蟹$1
+艾维欣诞生记$1
+恐惧夜车$1
+饮梦吸血鬼$1
+深沼爪$1
+白骨帝王$1
+蚀刻斯立兹$1
+乙金翼蜥$1
+剜心洞察$1
+腥臭巨罡兽$1
+恶意眩闪$1
+掘墓$1
+残酷仆从$1
+妒忌神$1
+致命坠击$1
+弄偶学徒$1
+无神征召$1
+死冥霸权$1
+阴间耶夫$1
+探索死冥地$1
+复新佣兽$1
+翻新变械人$1
+不死涟动$1
+无礼哨卫$1
+饥馑君父席更格$1
+繁殖地易魂师$1
+靡美繁华$1
+亚龙卷幼虫$1
+乙太之乱$1
+激放迅猛龙$1
+舞焰客灰儿$1
+侦探的凤凰$1
+破阵奥札奇$1
+利齿烈焰$1
+复态眩闪$1
+执法蛙秘耳$1
+熔炉残虐者$1
+电流涌射$1
+灵火削斩$1
+瞥视绝望$1
+炼狱诱引魔$1
+发明家之斧$1
+莫葛暴群$1
+热熔守门像$1
+派对捣击客$1
+非瑞克西亚制铁厂$1
+冲销$1
+拉尔与隐匿迷宫$1
+鲁莽滑焰客$1
+重诵击$1
+撒尔帕汀拟像械$1
+攻城猛击$1
+掠行先驱体$1
+烬法师斯酷$1
+热熔充电虫$1
+后裔指挥官$1
+强旺空爪龙$1
+不稳定的护身符$1
+虚空扑击体$1
+潜能之轮$1
+沐日孳巢蜥$1
+诞生仪式$1
+携手抵抗$1
+庞巨血口面具$1
+寇维达领袖艾拉达力$1
+易生奥札奇$1
+进化见证人$1
+罗纳斯的狂徒$1
+卡隆尼亚利齿$1
+栽培眩闪$1
+捕禽一击$1
+毒蛇赋礼$1
+怖惧突袭$1
+饥潮崛起$1
+多头龙驯师$1
+狮本影$1
+恶意隆响$1
+巨兽漩涡$1
+龙葵树灵$1
+天裔多头龙$1
+歼灭径道$1
+原初祷言$1
+繁衍奴兽$1
+标志撼击$1
+六树妖$1
+茂生孽菌体$1
+春溢螳人$1
+无常泥枝兽$1
+领地绞杀体$1
+窃生恶体$1
+幻法仙灵的麋鹿$1
+畸变狮头象$1
+深奥挪用$1
+空骑士队长亚娜肯吕德$1
+通导鬼怪$1
+颅骨冲甲$1
+诅咒袋熊$1
+超导独眼巨人$1
+魂火密使$1
+膨胀流浆$1
+忠诚看门狗$1
+未来塑师玄古$1
+金尾训练师$1
+骇怖纺影怪$1
+噬铁魔依斯奇$1
+极性反转$1
+伊捷产能所$1
+百熊之王库多$1
+翼展智慧拿杜$1
+死冥盛花$1
+顽强石像鬼$1
+昂度结绳师$1
+掷索相助$1
+焰忿泰坦斐拉革$1
+时空创生$1
+灵能蛙$1
+火热重生$1
+谜语门石像鬼$1
+咆哮先知罗欣$1
+怪灵急袭$1
+虚囊巨嘴龟$1
+鬼祟贪吃灵$1
+巨物先锋$1
+圣物老妖$1
+纠拧孵化蛹$1
+纷扰笛$1
+伪神雕像$1
+日能转换仪$1
+乱心饰品$1
+冬之月$1
+创新拱门$1
+荣光竞技场$1
+血斑泥沼$1
+富饶地境$1
+污化地境$1
+欺瞒地境$1
+潮没水滨$1
+恶兆地境$1
+丰碑石阵$1
+险恶地境$1
+聚污三角洲$1
+火热地境$1
+破碎地境$1
+庇护地境$1
+变幻林地$1
+覆雪荒野$1
+密探长地窖$1
+安宁地境$1
+扭曲地境$1
+乌金的迷宫$1
+克撒的洞窟$1
+风袭荒地$1
+繁茂丘陵$1
+拿卡地贱民阿耶尼$1
+拿卡地复仇者阿耶尼$1
+锐草伏击$1
+锐草原野$1
+巫祭附魔师$1
+巫魅草原$1
+流电样本$1
+流电实验室$1
+渐入迷眠$1
+昏眠喷泉$1
+好问学徒多美代$1
+博闻学者多美代$1
+曳物波尬$1
+波尬腐沼$1
+腐魔突堕$1
+凸垛腐沼$1
+马可夫家族的索霖$1
+贪婪稚儿索霖$1
+顶尖修行僧$1
+神秘尖顶$1
+风雨法师拉尔$1
+地脉逸才拉尔$1
+散裂喷发$1
+火山裂隙$1
+栈桥争斗$1
+蜿结谷栈桥$1
+妃雅丽兹的信徒$1
+妃雅丽兹的花园$1
+贪饕幼虫格蕊斯$1
+瘟疫虫群格蕊斯$1
+浴血洞察$1
+血色泥沼$1
+没真恶体$1
+水没丛林$1
+琉翼美善$1
+霉善礼拜堂$1
+教团引领$1
+教团要塞$1
+复原饱宴$1
+古生林地$1
+妙想涌动$1
+裂涌瀑布$1
+丰收之力 $1
+丰收庇护地$1
+树桩重跺$1
+焰柳旷林$1
+压制射线$1
+有序广场$1
+水浸教谕$1
+浸水书库$1
+遗迹天使$1
+正义的宣判$1
+杰出咒法师$1
+欧琳的吟颂$1
+侍卫队征召员$1
+瑟纹的复还$1
+深入分析$1
+艾丝翠的祝愿$1
+驮炮河童$1
+暗礁水蛆$1
+悲鸣龙兽$1
+活埋$1
+约格莫夫之子格锐克$1
+纳迪尔的夜刃手$1
+舞蛇术士$1
+毒雨倾盆$1
+生体活祭$1
+诅咒魔镜$1
+幼年巨龙$1
+重铸利锋拉耶梨$1
+熔毁$1
+流星锤$1
+恼怒硕伟龙$1
+分枝演化$1
+泰坦尼亚牧师$1
+林间救护人$1
+修索林共生体$1
+乙金塑师布莱娅$1
+穹境的卡莉雅$1
+翡翠徽章$1
+黑玉徽章$1
+垃圾掠集兽$1
+珍珠徽章$1
+红宝石徽章$1
+蓝宝石徽章$1
+克撒的抚育设备$1
+受损的魔力石$1
+蛮族决斗擂台$1
+章人竞技场$1
+荒芜寺院$1
+筑巢栖地$1
+非瑞克西亚高塔$1
+躁乱风暴$1
