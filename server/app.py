@@ -1,13 +1,13 @@
-from flask_socketio import SocketIO
-from mtgscan.text import MagicRecognition
-from mtgscan.ocr.azure import Azure
-from flask import Flask, jsonify, render_template, request
-from celery import Celery, Task
-from pathlib import Path
-import os
-import base64
-from utils.oss import OSSUtil
 from datetime import datetime
+from utils.oss import OSSUtil
+import base64
+import os
+from pathlib import Path
+from celery import Celery, Task
+from flask import Flask, jsonify, render_template, request
+from mtgscan.ocr.azure import Azure
+from mtgscan.text import MagicRecognition
+from flask_socketio import SocketIO
 import eventlet
 eventlet.monkey_patch()
 
