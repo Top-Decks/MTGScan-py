@@ -28510,3 +28510,567 @@ Flusterstorm$1
 筑巢栖地$1
 非瑞克西亚高塔$1
 躁乱风暴$1
+Banishing Light$1
+Brave-Kin Duo$1
+Brightblade Stoat$1
+Builder's Talent$1
+Caretaker's Talent$1
+Carrot Cake$1
+Crumb and Get It$1
+Dewdrop Cure$1
+Driftgloom Coyote$1
+Feather of Flight$1
+Flowerfoot Swordmaster$1
+Harvestrite Host$1
+Intrepid Rabbit$1
+Jolly Gerbils$1
+Lifecreed Duo$1
+Mabel's Mettle$1
+Mouse Trapper$1
+Nettle Guard$1
+Parting Gust$1
+Pileated Provisioner$1
+Rabbit Response$1
+Repel Calamity$1
+Seasoned Warrenguard$1
+Shrike Force$1
+Sonar Strike$1
+Star Charter$1
+Thistledown Players$1
+Warren Elder$1
+Wax-Wane Witness$1
+Bellowing Crier$1
+Calamitous Tide$1
+Daring Waverider$1
+Dazzling Denial$1
+Dire Downdraft$1
+Eddymurk Crab$1
+Finch Formation$1
+Gossip's Talent$1
+Into the Flood Maw$1
+Knightfisher$1
+Lightshell Duo$1
+Long River Lurker$1
+Long River's Pull$1
+Mind Spiral$1
+Mindwhisker$1
+Nightwhorl Hermit$1
+Otterball Antics$1
+Pearl of Wisdom$1
+Plumecreed Escort$1
+Run Away Together$1
+Shore Up$1
+Skyskipper Duo$1
+Spellgyre$1
+Splash Lasher$1
+Splash Portal$1
+Stormchaser's Talent$1
+Sugar Coat$1
+Thought Shucker$1
+Waterspout Warden$1
+Agate-Blade Assassin$1
+Bandit's Talent$1
+Bonebind Orator$1
+Bonecache Overseer$1
+Consumed by Greed$1
+Daggerfang Duo$1
+Diresight$1
+Downwind Ambusher$1
+Early Winter$1
+Feed the Cycle$1
+Glidedive Duo$1
+Hazel's Nocturne$1
+Huskburster Swarm$1
+Moonstone Harbinger$1
+Nocturnal Hunger$1
+Persistent Marshstalker$1
+Psychic Whorl$1
+Ravine Raider$1
+Ruthless Negotiation$1
+Savor$1
+Scales of Shale$1
+Scavenger's Talent$1
+Sinister Monolith$1
+Stargaze$1
+Starlit Soothsayer$1
+Starscape Cleric$1
+Thornplate Intimidator$1
+Thought-Stalker Warlock$1
+Wick's Patrol$1
+Agate Assault$1
+Alania's Pathmaker$1
+Artist's Talent$1
+Blacksmith's Talent$1
+Blooming Blast$1
+Brambleguard Captain$1
+Brazen Collector$1
+Conduct Electricity$1
+Coruscation Mage$1
+Flamecache Gecko$1
+Frilled Sparkshooter$1
+Harnesser of Storms$1
+Heartfire Hero$1
+Hoarder's Overflow$1
+Kindlespark Duo$1
+Might of the Meek$1
+Playful Shove$1
+Quaketusk Boar$1
+Rabid Gnaw$1
+Raccoon Rallier$1
+Reptilian Recruiter$1
+Roughshod Duo$1
+Sazacap's Brew$1
+Steampath Charger$1
+Take Out the Trash$1
+Teapot Slinger$1
+Valley Rally$1
+War Squeak$1
+Whiskerquill Scribe$1
+Wildfire Howl$1
+Bakersbane Duo$1
+Bark-Knuckle Boxer$1
+Brambleguard Veteran$1
+Bushy Bodyguard$1
+Cache Grab$1
+Clifftop Lookout$1
+Curious Forager$1
+Druid of the Spade$1
+Galewind Moose$1
+Hazardroot Herbalist$1
+Heaped Harvest$1
+High Stride$1
+Hivespine Wolverine$1
+Honored Dreyleader$1
+Hunter's Talent$1
+Innkeeper's Talent$1
+Longstalk Brawl$1
+Overprotect$1
+Pawpatch Formation$1
+Peerless Recycling$1
+Polliwallop$1
+Rust-Shield Rampager$1
+Stickytongue Sentinel$1
+Stocking the Pantry$1
+Sunshower Druid$1
+Three Tree Rootweaver$1
+Three Tree Scribe$1
+Treeguard Duo$1
+Treetop Sentries$1
+Burrowguard Mentor$1
+Cindering Cutthroat$1
+Corpseberry Cultivator$1
+Fireglass Mentor$1
+Head of the Homestead$1
+Junkblade Bruiser$1
+Lilysplash Mentor$1
+Mind Drill Assailant$1
+Moonrise Cleric$1
+Plumecreed Mentor$1
+Pond Prophet$1
+Seedglaive Mentor$1
+Seedpod Squire$1
+Starseer Mentor$1
+Tempest Angler$1
+Tidecaller Mentor$1
+Veteran Guardmouse$1
+Vinereap Mentor$1
+Wandertale Mentor$1
+Barkform Harvester$1
+Bumbleflower's Sharepot$1
+Fountainport Bell$1
+Heirloom Epic$1
+Patchwork Banner$1
+Short Bow$1
+Starforged Sword$1
+Tangle Tumbler$1
+Three Tree Mascot$1
+Hidden Grotto$1
+Lilypad Village$1
+Lupinflower Village$1
+Mudflat Village$1
+Oakhollow Village$1
+Rockface Village$1
+Three Tree City$1
+Uncharted Haven$1
+Bria, Riptide Rogue$1
+Byrke, Long Ear of the Law$1
+Serra Redeemer$1
+Charmed Sleep$1
+Mind Spring$1
+Thieving Otter$1
+Flame Lash$1
+Colossification$1
+Giant Growth$1
+Rabid Bite$1
+Sword of Vengeance$1
+Blossoming Sands$1
+Swiftwater Cliffs$1
+Swords to Plowshares$1
+Ledger Shredder$1
+Rat Colony$1
+Relentless Rats$1
+Kindred Charge$1
+Sylvan Tutor$1
+Toski, Bearer of Secrets$1
+Frogmite$1
+Sword of Fire and Ice$1
+Secluded Courtyard$1
+Zoraline, Cosmos Caller$1
+Ygra, Eater of All$1
+Wishing Well$1
+Wick, the Whorled Mind$1
+Whiskervale Forerunner$1
+Wear Down$1
+Warren Warleader$1
+Vren, the Relentless$1
+Valley Rotcaller$1
+Valley Questcaller$1
+Valley Mightcaller$1
+Valley Floodcaller$1
+Valley Flamecaller$1
+Thundertrap Trainer$1
+Thornvault Forager$1
+The Infamous Cruelclaw$1
+Tender Wildguide$1
+Sunspine Lynx$1
+Stormsplitter$1
+Stormcatch Mentor$1
+Starfall Invocation$1
+Shoreline Looter$1
+Season of Weaving$1
+Season of the Burrow$1
+Season of the Bold$1
+Season of Loss$1
+Season of Gathering$1
+Scrapshooter$1
+Salvation Swan$1
+Rottenmouth Viper$1
+Ral, Crackling Wit$1
+Portent of Calamity$1
+Plains$1
+Pawpatch Recruit$1
+Osteomancer Adept$1
+Muerra, Trash Tactician$1
+Mockingbird$1
+Mistbreath Elder$1
+Manifold Mouse$1
+Maha, Its Feathers Night$1
+Mabel, Heir to Cragflame$1
+Lunar Convocation$1
+Lumra, Bellow of the Woods$1
+Kitsa, Otterball Elite$1
+Kitnap$1
+Keen-Eyed Curator$1
+Kastral, the Windcrested$1
+Jackdaw Savior$1
+Iridescent Vinelasher$1
+Hugs, Grisly Guardian$1
+Hop to It$1
+Hired Claw$1
+Helga, Skittish Seer$1
+Hearthborn Battler$1
+Glarb, Calamity's Augur$1
+Gev, Scaled Scorch$1
+Fountainport$1
+For the Common Good$1
+Finneas, Ace Archer$1
+Festival of Embers$1
+Fell$1
+Fecund Greenshell$1
+Fabled Passage$1
+Essence Channeler$1
+Emberheart Challenger$1
+Eluge, the Shoreless Sea$1
+Dreamdew Entrancer$1
+Dragonhawk, Fate's Tempest$1
+Dour Port-Mage$1
+Dawn's Truce$1
+Darkstar Augur$1
+Cruelclaw's Heist$1
+Coiling Rebirth$1
+Clement, the Worrywort$1
+Camellia, the Seedmiser$1
+Byway Barterer$1
+Beza, the Bounding Spring$1
+Baylen, the Haymaker$1
+Azure Beastbinder$1
+Alania, Divergent Storm$1
+跃动新春贝萨$1
+菁华通联师$1
+寒鸦救护僧$1
+兴巢季节$1
+苍茂谷唤寻师$1
+胡须谷前锋$1
+寡言港法师$1
+诱拐幽梦$1
+反舌鸟$1
+织咒季节$1
+封雷训练师$1
+许愿井$1
+虐爪劫案$1
+挥落$1
+活骨术专家$1
+遭难季节$1
+迷眠心灵威克$1
+命运风暴龙头鹰$1
+烬焰节庆$1
+受雇利爪$1
+勇武季节$1
+旭日脊山猫$1
+生机翠壳龟$1
+林间嚎吼卢玛拉$1
+爪卫新兵$1
+集结季节$1
+棘跃搜粮客$1
+渐磨消损$1
+干草堆匠拜棱$1
+忧天草克莱门特$1
+王牌弓手芬纳斯$1
+灾祸卜算师格拉布$1
+恶名昭彰的虐爪$1
+辉月唤集$1
+废品战术家穆埃拉$1
+捕风导师$1
+万生噬兽依格拉$1
+神奇小径$1
+兴巢季节$1
+遭难季节$1
+集结季节$1
+无滨瀚海艾鲁格$1
+腐臭口毒蛇$1
+林间嚎吼卢玛拉$1
+破晓休兵$1
+苍茂谷唤寻师$1
+胡须谷前锋$1
+寡言港法师$1
+反舌鸟$1
+苍茂谷唤洪师$1
+虐爪劫案$1
+活骨术专家$1
+迷眠心灵威克$1
+烬焰节庆$1
+多面家鼠$1
+苍茂谷唤焰师$1
+锐目鉴物客$1
+废料射手$1
+苍茂谷唤力师$1
+守种奴卡茉拉$1
+王牌弓手芬纳斯$1
+难测先知赫尔嘉$1
+恶名昭彰的虐爪$1
+震天急智拉尔$1
+干草堆匠拜棱$1
+忧天草克莱门特$1
+虹彩藤鞭客$1
+炉生战员$1
+爪卫新兵$1
+眠露迷幻术士$1
+神奇小径$1
+纵身蹦跃$1
+河岸掠盗$1
+渐磨消损$1
+驱逐明光$1
+勇身搭档$1
+闪剑白鼬$1
+建筑工才能$1
+照护者才能$1
+胡萝卜蛋糕$1
+来吃面包$1
+露珠疗伤$1
+曳冥郊狼$1
+翔空飞羽$1
+花丛勇剑师$1
+收成祭东主$1
+无畏勇兔$1
+欢愉沙鼠$1
+奉生搭档$1
+玛贝尔之勇$1
+设陷家鼠$1
+荨麻原守卫$1
+劲风吹散$1
+羽冠驰援者$1
+迅兔反应$1
+逐退灾兽$1
+繁殖地菁卫$1
+啸击队$1
+声呐击$1
+星图绘师$1
+蓟冠团演员$1
+繁殖地长老$1
+朔望见证僧$1
+呱吼报信员$1
+灾祸怒潮$1
+大胆驭浪师$1
+炫亮拒斥$1
+猛烈恶风$1
+黯涡蟹$1
+雀鸟巢群$1
+闲话者才能$1
+没入洪口$1
+翠鸟骑士$1
+亮壳搭档$1
+长河伏客$1
+长河拉拽$1
+心灵涡旋$1
+搅念师$1
+夜眠隐者$1
+獭球技艺$1
+智慧珍言$1
+羽誓卫士$1
+携手奔逃$1
+离水登岸$1
+掠空搭档$1
+搅咒涡旋$1
+水流鞭手$1
+覆水通道$1
+逐风客才能$1
+糖衣加身$1
+剥念客$1
+水龙卷护卫$1
+玛瑙刃杀手$1
+拦路匪才能$1
+缚骨雄辩家$1
+储骨督军$1
+贪欲反噬$1
+匕牙搭档$1
+灾祸预视$1
+顺风伏击客$1
+早冬降临$1
+喂食循环$1
+滑降搭档$1
+哈珠儿的夜曲$1
+爆膨躯大群$1
+月石先兆师$1
+夜行饥渴$1
+顽强沼行客$1
+心灵眠圈$1
+深峡劫掠客$1
+无情协商$1
+细细品味$1
+页岩披身$1
+拾荒客才能$1
+不祥巨石$1
+瞪视星空$1
+星光预言家$1
+星景僧侣$1
+棘甲凶汉$1
+缠思巫士$1
+威克的巡卫$1
+玛瑙石突袭$1
+艾岚妮开道师$1
+艺术家才能$1
+打铁匠才能$1
+盛放爆击$1
+刺棘卫队长$1
+厚颜集物客$1
+通导电流$1
+闪光法师$1
+储焰壁虎$1
+褶领火花射手$1
+驭风师$1
+心火勇士$1
+囤物满溢$1
+激燃搭档$1
+驯良者之威$1
+玩笑一推$1
+地震牙野猪$1
+狂疾啮咬$1
+浣熊鼓舞员$1
+爬虫征召员$1
+踏险搭档$1
+撒札卡的秘酿$1
+蒸气径领战师$1
+垃圾尽出$1
+茶壶掷手$1
+全谷动员$1
+临战尖叫$1
+胡须笔书士$1
+野火之嚎$1
+扰炉搭档$1
+树结拳手$1
+刺棘卫老兵$1
+茂叶保镖$1
+贪婪备储$1
+崖顶警戒员$1
+好奇搜粮客$1
+崇铲德鲁伊$1
+烈风驼鹿$1
+害根草药师$1
+成堆收成$1
+高跷健步$1
+蜂巢脊狼獾$1
+荣耀窝领$1
+捕猎手才能$1
+旅店主才能$1
+长茎争斗$1
+过度保护$1
+爪卫列阵$1
+无匹回收$1
+蝌蚪猛击$1
+锈盾狂冲客$1
+黏舌哨卫$1
+储满粮仓$1
+晴雨德鲁伊$1
+三树城织根者$1
+三树城书吏$1
+护树搭档$1
+树顶哨卫$1
+巢卫导师$1
+烬燃割喉客$1
+尸莓栽培师$1
+灼塑导师$1
+一家之主$1
+废刃恶棍$1
+跃莲导师$1
+钻心袭击客$1
+月行僧侣$1
+羽誓导师$1
+池塘先知$1
+种剑导师$1
+种荚扈从$1
+参星导师$1
+风暴钓客$1
+唤潮导师$1
+鼠卫老兵$1
+刈藤导师$1
+云游导师$1
+树皮壳收集机$1
+野花小姐的杂烩锅$1
+喷泉港响钟$1
+家传史诗$1
+百衲旗$1
+短弓$1
+星铸剑$1
+枝结滚车$1
+三树城福像$1
+隐匿石室$1
+睡莲村$1
+鲁冰花村$1
+泥岸村$1
+洞橡村$1
+岩壁村$1
+三树城$1
+世外乐土$1
+激流浪客布里亚$1
+法耳恢恢包尔克$1
+撒拉救赎使$1
+受魅安眠$1
+心灵甘泉$1
+窃獭$1
+炎鞭飞舞$1
+庞硕化$1
+变巨术$1
+狂疾啃咬$1
+复仇剑$1
+繁花沙洲$1
+急流山崖$1
+化剑为犁$1
+碎帐艾文$1
+老鼠群落$1
+无情鼠群$1
+同族冲锋$1
+森林导师$1
+密讯信使托斯奇$1
+小蛙兽$1
+炽寒剑$1
+幽僻庭院$1
