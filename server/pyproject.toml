@@ -14,6 +14,7 @@ Flask-SocketIO = "^5.3.6"
 redis = "^4.3.4"
 oss2 = "^2.18.4"
 requests = "^2.31.0"
+gunicorn = "^20.1.0"
 
 [tool.poetry.dev-dependencies]
 

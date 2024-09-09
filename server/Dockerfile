@@ -17,9 +17,5 @@ EXPOSE 5002
 
 COPY . .
 
-# RUN mkdir -p /usr/share/fonts &&\
-#     unzip ./Noto_Sans_Mono.zip -d /usr/share/fonts
-
-# CMD ["poetry", "run", "celery", "-A", "app.celery", "worker", "-P", "eventlet", "--loglevel=info", "&&", "poetry", "run", "python", "app.py"]
+# 使用 Gunicorn 启动应用
 CMD ["sh", "start.sh"]
-# CMD ["poetry", "run", "python", "app.py"]
