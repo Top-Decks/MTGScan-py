@@ -1,3 +1,8 @@
+import eventlet
+
+# 在导入其他模块之前进行monkey patch
+eventlet.monkey_patch()
+
 from datetime import datetime
 from utils.oss import OSSUtil
 import base64
@@ -8,16 +13,11 @@ from flask import Flask, jsonify, render_template, request
 from mtgscan.ocr.azure import Azure
 from mtgscan.text import MagicRecognition
 from flask_socketio import SocketIO
-import eventlet
-
-# 在导入其他模块之前进行monkey patch
-eventlet.monkey_patch()
 
 DIR_DATA = Path(__file__).parent / "data"
 REDIS_URL = os.environ.get('REDIS_URL')
 
 app = Flask(__name__)
-app.app_context().push()  # 创建应用上下文
 
 socketio = SocketIO(app, message_queue=REDIS_URL, cors_allowed_origins="*")
 celery = Celery(app.name, broker=REDIS_URL, backend=REDIS_URL)
