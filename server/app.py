@@ -9,13 +9,16 @@ from mtgscan.ocr.azure import Azure
 from mtgscan.text import MagicRecognition
 from flask_socketio import SocketIO
 import eventlet
-eventlet.monkey_patch()
 
+# 在导入其他模块之前进行monkey patch
+eventlet.monkey_patch()
 
 DIR_DATA = Path(__file__).parent / "data"
 REDIS_URL = os.environ.get('REDIS_URL')
 
 app = Flask(__name__)
+app.app_context().push()  # 创建应用上下文
+
 socketio = SocketIO(app, message_queue=REDIS_URL, cors_allowed_origins="*")
 celery = Celery(app.name, broker=REDIS_URL, backend=REDIS_URL)
 celery.conf.update(
@@ -46,11 +49,12 @@ def scan_io(msg):
 @celery.task(base=ScanTask)
 def scan_celery(msg):
     print("scan_celery")
-    deck, img = scan(scan_celery._rec, msg)
-    img_url = scan_celery._oss.upload_img(img)
-    sio = SocketIO(message_queue=REDIS_URL)
-    sio.emit("scan_result", {
-             "deck": deck.maindeck.cards, "result_img": img_url, "origin_img": msg['image']}, room=msg["id"])
+    with app.app_context():
+        deck, img = scan(scan_celery._rec, msg)
+        img_url = scan_celery._oss.upload_img(img)
+        sio = SocketIO(message_queue=REDIS_URL)
+        sio.emit("scan_result", {
+                 "deck": deck.maindeck.cards, "result_img": img_url, "origin_img": msg['image']}, room=msg["id"])
 
 
 def scan(rec, msg):
@@ -66,7 +70,6 @@ def scan(rec, msg):
 
 @app.route("/api/fuzzy_search", methods=["POST"])
 def api_search_cards():
-
     card_names_text = request.json["text"]  # 获取包含卡牌名称的字符串数组
     language = request.json.get("language", None)  # 获取语言
     rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
