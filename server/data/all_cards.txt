@@ -29074,3 +29074,635 @@ Alania, Divergent Storm$1
 小蛙兽$1
 炽寒剑$1
 幽僻庭院$1
+舞空啦啦队员$1
+教派治疗师$1
+眩目剧院 // 道具备间$1
+眩目剧院$1
+道具备间$1
+人偶工房 // 瓷作展室$1
+人偶工房$1
+瓷作展室$1
+破茧新生$1
+永续无瑕体$1
+空灵铠$1
+驱除恶灵$1
+绑架惧影$1
+禁锢惧影$1
+刺探惧影$1
+友善鬼魂$1
+魂魅舞者$1
+烁光追寻客$1
+堂皇门廊 // 典雅圆厅$1
+堂皇门廊$1
+典雅圆厅$1
+久战卫士$1
+突发惊吓$1
+希望地脉$1
+狮心烁光体$1
+活体电话$1
+乐观拾荒客$1
+麦田的孤儿$1
+雾原霸主$1
+补丁玩物$1
+迫任榜样$1
+细身救星$1
+梦中遭攫$1
+碎片法师救援$1
+鬼魂庇护$1
+照管精怪$1
+四散分开$1
+裂肤娃娃$1
+手术疗室 // 医院病房$1
+手术疗室$1
+医院病房$1
+兽伴挚友托比$1
+受困屏中$1
+不明浮空船$1
+不安双子$1
+违愿重塑$1
+老练求生者$1
+救星飘萍$1
+恶心眼球怪$1
+无底泳池 // 更衣房间$1
+无底泳池$1
+更衣房间$1
+中央电梯 // 通天阶梯$1
+中央电梯$1
+通天阶梯$1
+湿黏游掠怪$1
+匍行魔眼$1
+受诅风衣$1
+利口巨牙鲨$1
+勿发声响$1
+受控暮悲邸$1
+永续好奇体$1
+进入迷局$1
+怪体追踪人$1
+抖动幽灵$1
+落榜惧影$1
+高坠惧影$1
+冒名惧影$1
+孤立惧影$1
+洪坑沉溺客$1
+退离此处$1
+魂魅持钥灵$1
+烁光迸发$1
+转变地脉$1
+玛丽娜樊卓尔的秘录$1
+储肉冰库 // 水浸餐室$1
+储肉冰库$1
+水浸餐室$1
+剥忆惧魇$1
+饰镜房间 // 破碎境域$1
+饰镜房间$1
+破碎境域$1
+洪坑霸主$1
+超常分析员$1
+食人蝇$1
+翻拣头骨蟹$1
+静寂伏廊怪$1
+遭伏研究员$1
+勿露头，勿出声$1
+多美代的传说$1
+隧道勘探员$1
+扭曲现实$1
+无法尖叫$1
+水底隧道 // 泥泞鱼缸$1
+水底隧道$1
+泥泞鱼缸$1
+丧胆之攫$1
+受迫灵人$1
+消失眼前$1
+附肢拼合怪$1
+灾沼蛭$1
+咳笑刀客$1
+恶念重返$1
+邪恶商谈$1
+头骨生裂$1
+愤世独行客$1
+迷人吸血妖$1
+遭渎墓穴 // 解剖课室$1
+遭渎墓穴$1
+解剖课室$1
+恶魔商议$1
+荒废阁楼 // 眺望高台$1
+荒废阁楼$1
+眺望高台$1
+末日拷打魔$1
+永续顽强体$1
+搅魂期狂信僧$1
+失齿惧影$1
+黯境惧影$1
+终极复仇$1
+葬仪室 // 觉醒厅$1
+葬仪室$1
+觉醒厅$1
+屈从暴力$1
+苦痛伤$1
+无害老鼠$1
+杀手面具$1
+一道游戏$1
+虚空地脉$1
+不生则死$1
+肉钩大屠杀二$1
+沼气恶魔$1
+谋杀$1
+进退无路$1
+缚骨扭木妖$1
+灾沼霸主$1
+人气自傲客$1
+复生教众$1
+幽魂夺魄灵$1
+孢生感染$1
+不洁别馆 // 仪式会厅$1
+不洁别馆$1
+仪式会厅$1
+难阻刀客$1
+噬惧魔瓦伽沃$1
+瓦伽沃的信徒$1
+猛恶毁肢魔$1
+温特干预$1
+凋萎折磨$1
+床头兽伴$1
+叛徒交易$1
+沸角开膛客$1
+链锯$1
+焦毁门厅 // 扭曲空间$1
+焦毁门厅$1
+扭曲空间$1
+发条敲鼓猴$1
+受诅录影$1
+欺敌能手$1
+永续勇气体$1
+遭猎惧影$1
+生焚惧影$1
+患失惧影$1
+琉璃工坊 // 碎像庭院$1
+琉璃工坊$1
+碎像庭院$1
+抢夺奖品$1
+喂养之掌$1
+绝灭狱火$1
+炼狱幽魅$1
+无礼怪灵$1
+共振地脉$1
+最有价值克星$1
+机敏求生家诺林$1
+沸角霸主$1
+画家绘室 // 受损画廊$1
+画家绘室$1
+受损画廊$1
+储钱小猪$1
+烈火断层$1
+破布玩伴$1
+莽闯怒灵妖$1
+召群锐器人$1
+尖头锐器人$1
+裂钩锐器人$1
+夺命过山车$1
+焦热龙炎$1
+尖鸣宿敌$1
+售票门房 // 仇恨通道$1
+售票门房$1
+仇恨通道$1
+苦痛试炼$1
+内外翻转$1
+误时失灵$1
+复仇夺身$1
+恶毒小丑$1
+暴烈索求$1
+狂怒华尔滋$1
+三呼现身阿纳克$1
+人手蜈蚣$1
+栏外亚龙$1
+腼腆兽伴$1
+劈穿房门$1
+感人分别$1
+谨慎求生者$1
+协同痛击$1
+奇妖巡检员$1
+无畏求生者$1
+永续活力体$1
+泄密惧影$1
+钻肉虫$1
+狂乱力量$1
+攫物长颈妖$1
+翠绿温室 // 摇晃露台$1
+翠绿温室$1
+摇晃露台$1
+凶林啸鸣兽$1
+树篱伐木械$1
+可怖活力$1
+宅邸制图师$1
+隐伏真菌$1
+救星兽伴科纳$1
+异变地脉$1
+显化惧象$1
+腐朽体育馆 // 举重健身房$1
+腐朽体育馆$1
+举重健身房$1
+巨物突现$1
+杂食捕蝇草$1
+蔓生狂信者$1
+凶林霸主$1
+拼布兽伴$1
+知根求生者$1
+直呼其名$1
+垂涎碾嘴兽$1
+寻脊百足虫$1
+遍处威胁$1
+抽肢娃娃$1
+猛击英杰泰瓦$1
+皮囊之下$1
+瓦伽沃的猛攻$1
+衣帽独间 // 遭忘地窖$1
+衣帽独间$1
+遭忘地窖$1
+警觉看护犬$1
+挥扫柳枝体$1
+遭弃娃娃阿拉贝拉$1
+棒球棒$1
+兽伴强击$1
+育种织网蛛$1
+不安喜悦$1
+拖入根脉$1
+连绵惧影$1
+怪灵驯服师$1
+恐惧滋长$1
+好奇烁光体$1
+入侵怒灵妖$1
+吹气文丑$1
+梦魇克星魁渡$1
+玛丽娜樊卓尔$1
+午夜破坏$1
+黯境寻客哪失$1
+希望之光尼科$1
+健忘读书人$1
+窥透幕帘$1
+禁闯丈室 // 演讲大厅$1
+禁闯丈室$1
+演讲大厅$1
+孽种猎人莉普$1
+飞蛾仪式$1
+热火熔炉间 // 蒸汽桑拿室$1
+热火熔炉间$1
+蒸汽桑拿室$1
+锯刃剥皮人$1
+机伶叙事人$1
+纱跺怪$1
+响颅扰虫$1
+烟缭憩间 // 雾漫沙龙$1
+烟缭憩间$1
+雾漫沙龙$1
+织群窝巢$1
+不死疾步妖$1
+瓦伽沃总管维克托$1
+野火扭木妖$1
+愤世向导温特$1
+好问琦梦$1
+夺命惊奇箱$1
+捕熊陷阱$1
+通导砍刀$1
+解剖工具$1
+拾得片段$1
+友善泰迪熊$1
+吸魂器$1
+烁光灯$1
+闹鬼荧屏$1
+宅邸钥匙$1
+恶毒吊灯$1
+残暴拟偶马文$1
+圆锯$1
+遭弃宿营地$1
+焰沼边陲$1
+渗血林地$1
+蚀画玉米田$1
+泛地边陲$1
+幽湖边陲$1
+雾林边陲$1
+湖边棚屋$1
+阴暗下水道$1
+冷落豪宅$1
+奇异灯塔$1
+哑声狂欢地$1
+锐阱峡谷$1
+纠绞墓园$1
+地塑旷野$1
+刺脊边陲$1
+瓦伽沃巢穴$1
+Acrobatic Cheerleader$1
+Cult Healer$1
+Dazzling Theater // Prop Room$1
+Dazzling Theater$1
+Prop Room$1
+Dollmaker's Shop // Porcelain Gallery$1
+Dollmaker's Shop$1
+Porcelain Gallery$1
+Emerge from the Cocoon$1
+Enduring Innocence$1
+Ethereal Armor$1
+Exorcise$1
+Fear of Abduction$1
+Fear of Immobility$1
+Fear of Surveillance$1
+Friendly Ghost$1
+Ghostly Dancers$1
+Glimmer Seeker$1
+Grand Entryway // Elegant Rotunda$1
+Grand Entryway$1
+Elegant Rotunda$1
+Hardened Escort$1
+Jump Scare$1
+Leyline of Hope$1
+Lionheart Glimmer$1
+Living Phone$1
+Optimistic Scavenger$1
+Orphans of the Wheat$1
+Overlord of the Mistmoors$1
+Patched Plaything$1
+Reluctant Role Model$1
+Savior of the Small$1
+Seized from Slumber$1
+Shardmage's Rescue$1
+Sheltered by Ghosts$1
+Shepherding Spirits$1
+Split Up$1
+Splitskin Doll$1
+Surgical Suite // Hospital Room$1
+Surgical Suite$1
+Hospital Room$1
+Toby, Beastie Befriender$1
+Trapped in the Screen$1
+Unidentified Hovership$1
+Unsettling Twins$1
+Unwanted Remake$1
+Veteran Survivor$1
+The Wandering Rescuer$1
+Abhorrent Oculus$1
+Bottomless Pool // Locker Room$1
+Bottomless Pool$1
+Locker Room$1
+Central Elevator // Promising Stairs$1
+Central Elevator$1
+Promising Stairs$1
+Clammy Prowler$1
+Creeping Peeper$1
+Cursed Windbreaker$1
+Daggermaw Megalodon$1
+Don't Make a Sound$1
+Duskmourn's Domination$1
+Enduring Curiosity$1
+Enter the Enigma$1
+Entity Tracker$1
+Erratic Apparition$1
+Fear of Failed Tests$1
+Fear of Falling$1
+Fear of Impostors$1
+Fear of Isolation$1
+Floodpits Drowner$1
+Get Out$1
+Ghostly Keybearer$1
+Glimmerburst$1
+Leyline of Transformation$1
+Marina Vendrell's Grimoire$1
+Meat Locker // Drowned Diner$1
+Meat Locker$1
+Drowned Diner$1
+The Mindskinner$1
+Mirror Room // Fractured Realm$1
+Mirror Room$1
+Fractured Realm$1
+Overlord of the Floodpits$1
+Paranormal Analyst$1
+Piranha Fly$1
+Scrabbling Skullcrab$1
+Silent Hallcreeper$1
+Stalked Researcher$1
+Stay Hidden, Stay Silent$1
+The Tale of Tamiyo$1
+Tunnel Surveyor$1
+Twist Reality$1
+Unable to Scream$1
+Underwater Tunnel // Slimy Aquarium$1
+Underwater Tunnel$1
+Slimy Aquarium$1
+Unnerving Grasp$1
+Unwilling Vessel$1
+Vanish from Sight$1
+Appendage Amalgam$1
+Balemurk Leech$1
+Cackling Slasher$1
+Come Back Wrong$1
+Commune with Evil$1
+Cracked Skull$1
+Cynical Loner$1
+Dashing Bloodsucker$1
+Defiled Crypt // Cadaver Lab$1
+Defiled Crypt$1
+Cadaver Lab$1
+Demonic Counsel$1
+Derelict Attic // Widow's Walk$1
+Derelict Attic$1
+Widow's Walk$1
+Doomsday Excruciator$1
+Enduring Tenacity$1
+Fanatic of the Harrowing$1
+Fear of Lost Teeth$1
+Fear of the Dark$1
+Final Vengeance$1
+Funeral Room // Awakening Hall$1
+Funeral Room$1
+Awakening Hall$1
+Give In to Violence$1
+Grievous Wound$1
+Innocuous Rat$1
+Killer's Mask$1
+Let's Play a Game$1
+Leyline of the Void$1
+Live or Die$1
+Meathook Massacre II$1
+Miasma Demon$1
+Murder$1
+Nowhere to Run$1
+Osseous Sticktwister$1
+Overlord of the Balemurk$1
+Popular Egotist$1
+Resurrected Cultist$1
+Spectral Snatcher$1
+Sporogenic Infection$1
+Unholy Annex // Ritual Chamber$1
+Unholy Annex$1
+Ritual Chamber$1
+Unstoppable Slasher$1
+Valgavoth, Terror Eater$1
+Valgavoth's Faithful$1
+Vile Mutilator$1
+Winter's Intervention$1
+Withering Torment$1
+Bedhead Beastie$1
+Betrayer's Bargain$1
+Boilerbilges Ripper$1
+Chainsaw$1
+Charred Foyer // Warped Space$1
+Charred Foyer$1
+Warped Space$1
+Clockwork Percussionist$1
+Cursed Recording$1
+Diversion Specialist$1
+Enduring Courage$1
+Fear of Being Hunted$1
+Fear of Burning Alive$1
+Fear of Missing Out$1
+Glassworks // Shattered Yard$1
+Glassworks$1
+Shattered Yard$1
+Grab the Prize$1
+Hand That Feeds$1
+Impossible Inferno$1
+Infernal Phantom$1
+Irreverent Gremlin$1
+Leyline of Resonance$1
+Most Valuable Slayer$1
+Norin, Swift Survivalist$1
+Overlord of the Boilerbilges$1
+Painter's Studio // Defaced Gallery$1
+Painter's Studio$1
+Defaced Gallery$1
+Piggy Bank$1
+Pyroclasm$1
+Ragged Playmate$1
+Rampaging Soulrager$1
+Razorkin Hordecaller$1
+Razorkin Needlehead$1
+Ripchain Razorkin$1
+The Rollercrusher Ride$1
+Scorching Dragonfire$1
+Screaming Nemesis$1
+Ticket Booth // Tunnel of Hate$1
+Ticket Booth$1
+Tunnel of Hate$1
+Trial of Agony$1
+Turn Inside Out$1
+Untimely Malfunction$1
+Vengeful Possession$1
+Vicious Clown$1
+Violent Urge$1
+Waltz of Rage$1
+Altanak, the Thrice-Called$1
+Anthropede$1
+Balustrade Wurm$1
+Bashful Beastie$1
+Break Down the Door$1
+Cathartic Parting$1
+Cautious Survivor$1
+Coordinated Clobbering$1
+Cryptid Inspector$1
+Defiant Survivor$1
+Enduring Vitality$1
+Fear of Exposure$1
+Flesh Burrower$1
+Frantic Strength$1
+Grasping Longneck$1
+Greenhouse // Rickety Gazebo$1
+Greenhouse$1
+Rickety Gazebo$1
+Hauntwoods Shrieker$1
+Hedge Shredder$1
+Horrid Vigor$1
+House Cartographer$1
+Insidious Fungus$1
+Kona, Rescue Beastie$1
+Leyline of Mutation$1
+Manifest Dread$1
+Moldering Gym // Weight Room$1
+Moldering Gym$1
+Weight Room$1
+Monstrous Emergence$1
+Omnivorous Flytrap$1
+Overgrown Zealot$1
+Overlord of the Hauntwoods$1
+Patchwork Beastie$1
+Rootwise Survivor$1
+Say Its Name$1
+Slavering Branchsnapper$1
+Spineseeker Centipede$1
+Threats Around Every Corner$1
+Twitching Doll$1
+Tyvar, the Pummeler$1
+Under the Skin$1
+Valgavoth's Onslaught$1
+Walk-in Closet // Forgotten Cellar$1
+Walk-in Closet$1
+Forgotten Cellar$1
+Wary Watchdog$1
+Wickerfolk Thresher$1
+Arabella, Abandoned Doll$1
+Baseball Bat$1
+Beastie Beatdown$1
+Broodspinner$1
+Disturbing Mirth$1
+Drag to the Roots$1
+Fear of Infinity$1
+Gremlin Tamer$1
+Growing Dread$1
+Inquisitive Glimmer$1
+Intruding Soulrager$1
+The Jolly Balloon Man$1
+Kaito, Bane of Nightmares$1
+Marina Vendrell$1
+Midnight Mayhem$1
+Nashi, Searcher in the Dark$1
+Niko, Light of Hope$1
+Oblivious Bookworm$1
+Peer Past the Veil$1
+Restricted Office // Lecture Hall$1
+Restricted Office$1
+Lecture Hall$1
+Rip, Spawn Hunter$1
+Rite of the Moth$1
+Roaring Furnace // Steaming Sauna$1
+Roaring Furnace$1
+Steaming Sauna$1
+Sawblade Skinripper$1
+Shrewd Storyteller$1
+Shroudstomper$1
+Skullsnap Nuisance$1
+Smoky Lounge // Misty Salon$1
+Smoky Lounge$1
+Misty Salon$1
+The Swarmweaver$1
+Undead Sprinter$1
+Victor, Valgavoth's Seneschal$1
+Wildfire Wickerfolk$1
+Winter, Misanthropic Guide$1
+Zimone, All-Questioning$1
+Attack-in-the-Box$1
+Bear Trap$1
+Conductive Machete$1
+Dissection Tools$1
+Found Footage$1
+Friendly Teddy$1
+Ghost Vacuum$1
+Glimmerlight$1
+Haunted Screen$1
+Keys to the House$1
+Malevolent Chandelier$1
+Marvin, Murderous Mimic$1
+Saw$1
+Abandoned Campground$1
+Blazemire Verge$1
+Bleeding Woods$1
+Etched Cornfield$1
+Floodfarm Verge$1
+Gloomlake Verge$1
+Hushwood Verge$1
+Lakeside Shack$1
+Murky Sewer$1
+Neglected Manor$1
+Peculiar Lighthouse$1
+Raucous Carnival$1
+Razortrap Gorge$1
+Strangled Cemetery$1
+Terramorphic Expanse$1
+Thornspire Verge$1
+Valgavoth's Lair$1
