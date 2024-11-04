@@ -29706,3 +29706,545 @@ Strangled Cemetery$1
 Terramorphic Expanse$1
 Thornspire Verge$1
 Valgavoth's Lair$1
+七煞君父$1
+始牙阿拉博$1
+开路悍扫龙$1
+养猫人$1
+天界铠甲$1
+利爪尽出$1
+水晶屏障$1
+不屈老兵$1
+耀光天使$1
+坚韧神恩$1
+明光模范$1
+救护晶角兽$1
+飞逝羽翼$1
+簇护传人$1
+兔位继承者$1
+有用捕手$1
+恒晓传令使$1
+励志神圣武士$1
+骑刺贯身$1
+灿光拒斥$1
+傲群家长$1
+召起过往$1
+空骑士扈从$1
+小队召集人$1
+日佑治疗师$1
+双刃加持$1
+女武神呼唤$1
+炽天使先锋$1
+秘法顿悟$1
+符文大法师$1
+巨鳍守船鲨$1
+章人墨法师$1
+金闪空法师$1
+监命史芬斯$1
+龙兽护幼师$1
+元素师专家$1
+博学法师$1
+仙华恶戏$1
+攫物巨海兽$1
+至高仙诈术师$1
+造妖大群$1
+冰风元素$1
+他界启示$1
+巧忍魁渡$1
+扬潮奇奥拉$1
+辉月洞察$1
+恼人秘教徒$1
+批驳$1
+符文镇墙$1
+飞船空贼$1
+佚学史芬斯$1
+警醒枭$1
+航向未知$1
+深渊索命魔$1
+灾祸裁定魔$1
+滚滚啸魂$1
+渎神勒令$1
+嗜血征服者$1
+墓穴食客$1
+无胆劫掠客$1
+上流猎手$1
+饥饿食尸鬼$1
+炼狱纳躯$1
+群袭智者$1
+午夜茶点$1
+九命佣兽$1
+鼠群复仇$1
+汲血鬼$1
+寻物愚行$1
+魂枷灵俑$1
+刺创$1
+饰品妙盗细骨$1
+悲剧女妖$1
+饕家吸血鬼$1
+唤魂吸血鬼$1
+复仇血祭师$1
+巫妖领主祝亚许$1
+战曲狂战士$1
+闪电波$1
+力量突长$1
+塑焰茜卓$1
+勇气鬼怪$1
+裂响独眼巨人$1
+驯龙师$1
+电光拟形$1
+暴烈陨灭$1
+登舰鬼怪$1
+鬼怪式谈判$1
+血角劫盗$1
+焚焰冲击$1
+时空行客凯澜$1
+召龙仪式$1
+灼势鬼怪$1
+静眠狱犬$1
+传乱魔$1
+密箱劫盗$1
+双焰暴君$1
+伏击狼$1
+跺地驮药象$1
+兽缘巡林客$1
+咳笑游掠者$1
+热切掘菌猪$1
+妖精誓巨人$1
+妖精护生师$1
+崩倒重击$1
+兴奋探险家烂宝$1
+苔生多头龙$1
+锐齿龙群$1
+浩大无比$1
+撼行犄角龙$1
+刺毛高大亚龙$1
+织魂蛛$1
+森林清还$1
+树顶织陷蛛$1
+嘲命者阿列莎$1
+斗士赞美诗$1
+烬根物灵师$1
+惧翼食腐鸟$1
+暮影圣徒依莲达$1
+入魔熊猫$1
+吞世巨蛇寇玛$1
+兴风凯卡$1
+远见尼米捷$1
+穿孔艺师$1
+循环护卫$1
+悖论塑师琦梦$1
+亲缘旗$1
+钓鱼竿$1
+地脉斧$1
+居合刀$1
+贪婪护身符$1
+乱涂匍体$1
+魂石庇护地$1
+狮群唤师阿耶尼$1
+阿耶尼的群伴$1
+终绝天使$1
+执政官威权$1
+驱逐明光$1
+护教军突击兵$1
+审判末日$1
+希望圣源吉娅妲$1
+治疗师翔鹰$1
+着手行动$1
+恼人幼犬$1
+坚定援兵$1
+草原雄狮$1
+撒拉天使$1
+午夜钟声$1
+年轻女武神$1
+卫护龟$1
+乙太化$1
+海生割喉客$1
+菁华离散$1
+奢豪复造$1
+飞掠扰神$1
+禁锢于月$1
+亮壳搭档$1
+微物术士$1
+嘲讽仙子$1
+无法拒绝的条件$1
+全知全能$1
+携手奔逃$1
+自省吾身$1
+魂魅船员$1
+再次考虑$1
+时间停止$1
+陶拉里亚惧兽$1
+证人保护$1
+纳饼入炉$1
+窃物鼠$1
+战墓食尸鬼$1
+生吞活剥$1
+放干鲜血$1
+自伪身故$1
+英雄殉身$1
+震惧军将莉莲娜$1
+亡者华尔滋$1
+劫掠芜土僧$1
+痛苦窘境$1
+非瑞克西亚斗技场$1
+行窃$1
+重组骷髅妖$1
+闇境兴起$1
+符痕恶魔$1
+溪堡血贼$1
+夜盗吸血鬼$1
+灵俑化$1
+风化侵蚀$1
+艾席嘉骑兵$1
+霸司的奖赏$1
+厚皮祸害$1
+闪电迸发$1
+烈焰巨口卓库瑟$1
+始啸埃泰力$1
+狂热惹事鬼$1
+焰箭弓手$1
+喷火幼龙$1
+焰迹凤凰$1
+狂热鬼怪$1
+鬼怪惊喜$1
+心火煽焰师$1
+碑出告第二仪式$1
+被迫受雇$1
+暴民头目克仑可$1
+地动爆裂$1
+西瓦巨龙$1
+熔滓风暴$1
+喷火勒嘎$1
+必中一击$1
+快意拼搏$1
+热情巨犀兽$1
+一口咬碎$1
+白木甲$1
+翅翼断裂$1
+野林开路$1
+倍产旺季$1
+金叶猎领德维恩$1
+德维恩的精兵$1
+妖精高位德鲁伊$1
+贾路的反抗$1
+创生浪潮$1
+始饥戈厄塔$1
+变巨术$1
+群落糙节兽$1
+死灰新生$1
+振奋呼号$1
+罗堰妖精$1
+谦恭图书管理员$1
+奈西安角虫$1
+横行$1
+复碧智者$1
+腐食流浆$1
+蛇皮帘幕$1
+薇薇安瑞德$1
+谨慎的演员$1
+野林祸害$1
+战巫师队长巴尔莫$1
+吞噬畸变体$1
+苍穹灵鹰$1
+好运独角兽$1
+英勇增援$1
+妖精之刃拉席莉$1
+腐潮穆杜塔$1
+祖神兽$1
+大胆追迹人小红玉$1
+雪恨快剑手$1
+深洋德鲁伊塔托娃$1
+千年风暴$1
+历险配备$1
+光洁雄鹿$1
+校区向导$1
+金光屏障$1
+金脉镐$1
+纹章旗帜$1
+攻城巨车$1
+陨石魔像$1
+黯色幻影$1
+疾行靴$1
+染血洞窟$1
+繁花沙洲$1
+阴沉死水$1
+成形野地$1
+丛林幽谷$1
+浪客小径$1
+崎岖高地$1
+侵蚀荒漠$1
+幽僻庭院$1
+急流山崖$1
+棘林瀑布$1
+静谧海湾$1
+风蚀峭壁$1
+Sire of Seven Deaths$1
+Arahbo, the First Fang$1
+Armasaur Guide$1
+Cat Collector$1
+Celestial Armor$1
+Claws Out$1
+Crystal Barricade$1
+Dauntless Veteran$1
+Dazzling Angel$1
+Divine Resilience$1
+Exemplar of Light$1
+Felidar Savior$1
+Fleeting Flight$1
+Guarded Heir$1
+Hare Apparent$1
+Helpful Hunter$1
+Herald of Eternal Dawn$1
+Inspiring Paladin$1
+Joust Through$1
+Luminous Rebuke$1
+Prideful Parent$1
+Raise the Past$1
+Skyknight Squire$1
+Squad Rallier$1
+Sun-Blessed Healer$1
+Twinblade Blessing$1
+Valkyrie's Call$1
+Vanguard Seraph$1
+Arcane Epiphany$1
+Archmage of Runes$1
+Bigfin Bouncer$1
+Cephalid Inkmage$1
+Clinquant Skymage$1
+Curator of Destinies$1
+Drake Hatcher$1
+Elementalist Adept$1
+Erudite Wizard$1
+Faebloom Trick$1
+Grappling Kraken$1
+High Fae Trickster$1
+Homunculus Horde$1
+Icewind Elemental$1
+Inspiration from Beyond$1
+Kaito, Cunning Infiltrator$1
+Kiora, the Rising Tide$1
+Lunar Insight$1
+Mischievous Mystic$1
+Refute$1
+Rune-Sealed Wall$1
+Skyship Buccaneer$1
+Sphinx of Forgotten Lore$1
+Strix Lookout$1
+Uncharted Voyage$1
+Abyssal Harvester$1
+Arbiter of Woe$1
+Billowing Shriekmass$1
+Blasphemous Edict$1
+Bloodthirsty Conqueror$1
+Crypt Feaster$1
+Gutless Plunderer$1
+High-Society Hunter$1
+Hungry Ghoul$1
+Infernal Vessel$1
+Infestation Sage$1
+Midnight Snack$1
+Nine-Lives Familiar$1
+Revenge of the Rats$1
+Sanguine Syphoner$1
+Seeker's Folly$1
+Soul-Shackled Zombie$1
+Stab$1
+Tinybones, Bauble Burglar$1
+Tragic Banshee$1
+Vampire Gourmand$1
+Vampire Soulcaller$1
+Vengeful Bloodwitch$1
+Zul Ashur, Lich Lord$1
+Battlesong Berserker$1
+Boltwave$1
+Bulk Up$1
+Chandra, Flameshaper$1
+Courageous Goblin$1
+Crackling Cyclops$1
+Dragon Trainer$1
+Electroduplicate$1
+Fiery Annihilation$1
+Goblin Boarders$1
+Goblin Negotiation$1
+Gorehorn Raider$1
+Incinerating Blast$1
+Kellan, Planar Trailblazer$1
+Rite of the Dragoncaller$1
+Searslicer Goblin$1
+Slumbering Cerberus$1
+Sower of Chaos$1
+Strongbox Raider$1
+Twinflame Tyrant$1
+Ambush Wolf$1
+Apothecary Stomper$1
+Beast-Kin Ranger$1
+Cackling Prowler$1
+Eager Trufflesnout$1
+Elfsworn Giant$1
+Elvish Regrower$1
+Felling Blow$1
+Loot, Exuberant Explorer$1
+Mossborn Hydra$1
+Needletooth Pack$1
+Preposterous Proportions$1
+Quakestrider Ceratops$1
+Quilled Greatwurm$1
+Spinner of Souls$1
+Sylvan Scavenging$1
+Treetop Snarespinner$1
+Alesha, Who Laughs at Fate$1
+Anthem of Champions$1
+Ashroot Animist$1
+Dreadwing Scavenger$1
+Elenda, Saint of Dusk$1
+Fiendish Panda$1
+Koma, World-Eater$1
+Kykar, Zephyr Awakener$1
+Niv-Mizzet, Visionary$1
+Perforating Artist$1
+Wardens of the Cycle$1
+Zimone, Paradox Sculptor$1
+Banner of Kinship$1
+Fishing Pole$1
+Leyline Axe$1
+Quick-Draw Katana$1
+Ravenous Amulet$1
+Scrawling Crawler$1
+Soulstone Sanctuary$1
+Ajani, Caller of the Pride$1
+Ajani's Pridemate$1
+Angel of Finality$1
+Authority of the Consuls$1
+Banishing Light$1
+Cathar Commando$1
+Day of Judgment$1
+Giada, Font of Hope$1
+Healer's Hawk$1
+Make Your Move$1
+Mischievous Pup$1
+Resolute Reinforcements$1
+Savannah Lions$1
+Serra Angel$1
+Stroke of Midnight$1
+Youthful Valkyrie$1
+Aegis Turtle$1
+Aetherize$1
+Brineborn Cutthroat$1
+Essence Scatter$1
+Extravagant Replication$1
+Fleeting Distraction$1
+Imprisoned in the Moon$1
+Lightshell Duo$1
+Micromancer$1
+Mocking Sprite$1
+An Offer You Can't Refuse$1
+Omniscience$1
+Run Away Together$1
+Self-Reflection$1
+Spectral Sailor$1
+Think Twice$1
+Time Stop$1
+Tolarian Terror$1
+Witness Protection$1
+Bake into a Pie$1
+Burglar Rat$1
+Diregraf Ghoul$1
+Eaten Alive$1
+Exsanguinate$1
+Fake Your Own Death$1
+Hero's Downfall$1
+Liliana, Dreadhorde General$1
+Macabre Waltz$1
+Marauding Blight-Priest$1
+Painful Quandary$1
+Phyrexian Arena$1
+Pilfer$1
+Reassembling Skeleton$1
+Rise of the Dark Realms$1
+Rune-Scarred Demon$1
+Stromkirk Bloodthief$1
+Vampire Nighthawk$1
+Zombify$1
+Abrade$1
+Axgard Cavalry$1
+Brass's Bounty$1
+Brazen Scourge$1
+Burst Lightning$1
+Drakuseth, Maw of Flames$1
+Etali, Primal Storm$1
+Fanatical Firebrand$1
+Firebrand Archer$1
+Firespitter Whelp$1
+Flamewake Phoenix$1
+Frenzied Goblin$1
+Goblin Surprise$1
+Heartfire Immolator$1
+Hidetsugu's Second Rite$1
+Involuntary Employment$1
+Krenko, Mob Boss$1
+Seismic Rupture$1
+Shivan Dragon$1
+Slagstorm$1
+Spitfire Lagac$1
+Sure Strike$1
+Thrill of Possibility$1
+Affectionate Indrik$1
+Bite Down$1
+Blanchwood Armor$1
+Broken Wings$1
+Bushwhack$1
+Doubling Season$1
+Dwynen, Gilt-Leaf Daen$1
+Dwynen's Elite$1
+Elvish Archdruid$1
+Garruk's Uprising$1
+Genesis Wave$1
+Ghalta, Primal Hunger$1
+Giant Growth$1
+Gnarlid Colony$1
+Grow from the Ashes$1
+Inspiring Call$1
+Llanowar Elves$1
+Mild-Mannered Librarian$1
+Nessian Hornbeetle$1
+Overrun$1
+Reclamation Sage$1
+Scavenging Ooze$1
+Snakeskin Veil$1
+Vivien Reid$1
+Wary Thespian$1
+Wildwood Scourge$1
+Balmor, Battlemage Captain$1
+Consuming Aberration$1
+Empyrean Eagle$1
+Good-Fortune Unicorn$1
+Heroic Reinforcements$1
+Lathril, Blade of the Elves$1
+Muldrotha, the Gravetide$1
+Progenitus$1
+Ruby, Daring Tracker$1
+Swiftblade Vindicator$1
+Tatyova, Benthic Druid$1
+Thousand-Year Storm$1
+Adventuring Gear$1
+Burnished Hart$1
+Campus Guide$1
+Gleaming Barrier$1
+Goldvein Pick$1
+Heraldic Banner$1
+Juggernaut$1
+Meteor Golem$1
+Solemn Simulacrum$1
+Swiftfoot Boots$1
+Bloodfell Caves$1
+Blossoming Sands$1
+Dismal Backwater$1
+Evolving Wilds$1
+Jungle Hollow$1
+Rogue's Passage$1
+Rugged Highlands$1
+Scoured Barrens$1
+Secluded Courtyard$1
+Swiftwater Cliffs$1
+Thornwood Falls$1
+Tranquil Cove$1
+Wind-Scarred Crag$1
