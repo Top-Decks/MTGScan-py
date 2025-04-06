@@ -30795,3 +30795,557 @@ Island$1
 Swamp$1
 Mountain$1
 Forest$1
+Ugin, Eye of the Storms$1
+Anafenza, Unyielding Lineage$1
+Arashin Sunshield$1
+Bearer of Glory$1
+Clarion Conqueror$1
+Coordinated Maneuver$1
+Dalkovan Packbeasts$1
+Descendant of Storms$1
+Dragonback Lancer$1
+Duty Beyond Death$1
+Elspeth, Storm Slayer$1
+Fortress Kin-Guard$1
+Furious Forebear$1
+Lightfoot Technique$1
+Loxodon Battle Priest$1
+Mardu Devotee$1
+Osseous Exhale$1
+Poised Practitioner$1
+Rally the Monastery$1
+Rebellious Strike$1
+Riling Dawnbreaker$1
+Sage of the Skies$1
+Salt Road Packbeast$1
+Smile at Death$1
+Starry-Eyed Skyrider$1
+Static Snare$1
+Stormbeacon Blade$1
+Stormplain Detainment$1
+Sunpearl Kirin$1
+Teeming Dragonstorm$1
+Tempest Hawk$1
+United Battlefront$1
+Voice of Victory$1
+Wayspeaker Bodyguard$1
+Aegis Sculptor$1
+Agent of Kotis$1
+Ambling Stormshell$1
+Bewildering Blizzard$1
+Constrictor Sage$1
+Dirgur Island Dragon$1
+Dispelling Exhale$1
+Dragonologist$1
+Dragonstorm Forecaster$1
+Essence Anchor$1
+Focus the Mind$1
+Fresh Start$1
+Highspire Bell-Ringer$1
+Humbling Elder$1
+Iceridge Serpent$1
+Kishla Trawlers$1
+Marang River Regent$1
+Naga Fleshcrafter$1
+Ringing Strike Mastery$1
+Riverwalk Technique$1
+Roiling Dragonstorm$1
+Sibsig Appraiser$1
+Snowmelt Stag$1
+Spectral Denial$1
+Stillness in Motion$1
+Taigam, Master Opportunist$1
+Temur Devotee$1
+Unending Whisper$1
+Ureni's Rebuff$1
+Veteran Ice Climber$1
+Wingblade Disciple$1
+Wingspan Stride$1
+Winternight Stories$1
+Abzan Devotee$1
+Adorned Crocodile$1
+Aggressive Negotiations$1
+Alchemist's Assistant$1
+Alesha's Legacy$1
+Avenger of the Fallen$1
+Caustic Exhale$1
+Corroding Dragonstorm$1
+Cruel Truths$1
+Delta Bloodflies$1
+Desperate Measures$1
+Dragon's Prey$1
+Feral Deathgorger$1
+Gurmag Rakshasa$1
+Hundred-Battle Veteran$1
+Kin-Tree Nurturer$1
+Krumar Initiate$1
+Nightblade Brigade$1
+Qarsi Revenant$1
+Rot-Curse Rakshasa$1
+Salt Road Skirmish$1
+Sandskitter Outrider$1
+Scavenger Regent$1
+The Sibsig Ceremony$1
+Sidisi, Regent of the Mire$1
+Sinkhole Surveyor$1
+Strategic Betrayal$1
+Unburied Earthcarver$1
+Unrooted Ancestor$1
+Venerated Stormsinger$1
+Wail of War$1
+Worthy Cost$1
+Yathan Tombguard$1
+Breaching Dragonstorm$1
+Channeled Dragonfire$1
+Cori-Steel Cutter$1
+Devoted Duelist$1
+Dracogenesis$1
+Equilibrium Adept$1
+Fire-Rim Form$1
+Fleeting Effigy$1
+Iridescent Tiger$1
+Jeskai Devotee$1
+Magmatic Hellkite$1
+Meticulous Artisan$1
+Molten Exhale$1
+Narset's Rebuke$1
+Overwhelming Surge$1
+Rescue Leopard$1
+Reverberating Summons$1
+Sarkhan, Dragon Ascendant$1
+Seize Opportunity$1
+Shock Brigade$1
+Shocking Sharpshooter$1
+Stadium Headliner$1
+Stormscale Scion$1
+Stormshriek Feral$1
+Summit Intimidator$1
+Sunset Strikemaster$1
+Tersa Lightshatter$1
+Twin Bolt$1
+Underfoot Underdogs$1
+Unsparing Boltcaster$1
+War Effort$1
+Wild Ride$1
+Zurgo's Vanguard$1
+Ainok Wayfarer$1
+Attuned Hunter$1
+Bloomvine Regent$1
+Champion of Dusan$1
+Craterhoof Behemoth$1
+Dragon Sniper$1
+Dragonbroods' Relic$1
+Dusyut Earthcarver$1
+Encroaching Dragonstorm$1
+Formation Breaker$1
+Herd Heirloom$1
+Heritage Reclamation$1
+Inspirited Vanguard$1
+Knockout Maneuver$1
+Krotiq Nestguard$1
+Lasyd Prowler$1
+Nature's Rhythm$1
+Piercing Exhale$1
+Rainveil Rejuvenator$1
+Rite of Renewal$1
+Roamer's Routine$1
+Sage of the Fang$1
+Sagu Pummeler$1
+Sagu Wildling$1
+Sarkhan's Resolve$1
+Snakeskin Veil$1
+Sultai Devotee$1
+Surrak, Elusive Hunter$1
+Synchronized Charge$1
+Trade Route Envoy$1
+Traveling Botanist$1
+Undergrowth Leopard$1
+Warden of the Grove$1
+All-Out Assault$1
+Armament Dragon$1
+Auroral Procession$1
+Awaken the Honored Dead$1
+Barrensteppe Siege$1
+Betor, Kin to All$1
+Bone-Cairn Butcher$1
+Call the Spirit Dragons$1
+Cori Mountain Stalwart$1
+Death Begets Life$1
+Defibrillating Current$1
+Disruptive Stormbrood // Petty Revenge$1
+Dragonback Assault$1
+Dragonclaw Strike$1
+Effortless Master$1
+Eshki Dragonclaw$1
+Fangkeeper's Familiar$1
+Felothar, Dawn of the Abzan$1
+Flamehold Grappler$1
+Frontline Rush$1
+Frostcliff Siege$1
+Glacial Dragonhunt$1
+Glacierwood Siege$1
+Gurmag Nightwatch$1
+Hardened Tactician$1
+Hollowmurk Siege$1
+Host of the Hereafter$1
+Inevitable Defeat$1
+Jeskai Brushmaster$1
+Jeskai Revelation$1
+Jeskai Shrinekeeper$1
+Karakyk Guardian$1
+Kheru Goldkeeper$1
+Kin-Tree Severance$1
+Kishla Skimmer$1
+Kotis, the Fangkeeper$1
+Lie in Wait$1
+Lotuslight Dancers$1
+Mammoth Bellow$1
+Mardu Siegebreaker$1
+Marshal of the Lost$1
+Monastery Messenger$1
+Narset, Jeskai Waymaster$1
+Neriv, Heart of the Storm$1
+New Way Forward$1
+Perennation$1
+Purging Stormbrood$1
+Rakshasa's Bargain$1
+Rediscover the Way$1
+Reigning Victor$1
+Reputable Merchant$1
+Revival of the Ancestors$1
+Riverwheel Sweep$1
+Roar of Endless Song$1
+Runescale Stormbrood$1
+Severance Priest$1
+Shiko, Paragon of the Way$1
+Skirmish Rhino$1
+Songcrafter Mage$1
+Sonic Shrieker$1
+Stalwart Successor$1
+Temur Battlecrier$1
+Temur Tawnyback$1
+Teval, Arbiter of Virtue$1
+Thunder of Unity$1
+Twinmaw Stormbrood$1
+Ureni, the Song Unending$1
+Whirlwing Stormbrood$1
+Windcrag Siege$1
+Yathan Roadwatcher$1
+Zurgo, Thunder's Decree$1
+Abzan Monument$1
+Boulderborn Dragon$1
+Dragonfire Blade$1
+Dragonstorm Globe$1
+Embermouth Sentinel$1
+Jade-Cast Sentinel$1
+Jeskai Monument$1
+Mardu Monument$1
+Mox Jasper$1
+Sultai Monument$1
+Temur Monument$1
+Watcher of the Wayside$1
+Bloodfell Caves$1
+Blossoming Sands$1
+Cori Mountain Monastery$1
+Dalkovan Encampment$1
+Dismal Backwater$1
+Evolving Wilds$1
+Frontier Bivouac$1
+Great Arashin City$1
+Jungle Hollow$1
+Kishla Village$1
+Maelstrom of the Spirit Dragon$1
+Mistrise Village$1
+Mystic Monastery$1
+Nomad Outpost$1
+Opulent Palace$1
+Rugged Highlands$1
+Sandsteppe Citadel$1
+Scoured Barrens$1
+Swiftwater Cliffs$1
+Thornwood Falls$1
+Tranquil Cove$1
+Wind-Scarred Crag$1
+Clarion Conqueror$1
+Marang River Regent$1
+Scavenger Regent$1
+Magmatic Hellkite$1
+Bloomvine Regent$1
+Ugin, Eye of the Storms$1
+风暴之眼乌金$1
+刚毅缘祖阿娜芬札$1
+阿拉辛阳盾手$1
+执耀旗手$1
+咆号威龙$1
+协同计略$1
+拓求围驮兽$1
+风暴后裔$1
+龙背枪骑兵$1
+身后之责$1
+风暴克星艾紫培$1
+要塞族卫$1
+愤怒先人$1
+轻灵跃$1
+象族战斗僧侣$1
+玛尔都信徒$1
+白骨吐息$1
+自若僧徒$1
+集结寺院$1
+反抗击$1
+易怒破晓龙$1
+苍穹智者$1
+盐路驮兽$1
+蔑死轮回$1
+欣悦空骑士$1
+静止圈套$1
+集霆刀$1
+风暴原拘留$1
+阳珠麒麟$1
+盈溢龙袭暴$1
+暴风翔鹰$1
+联合战线$1
+祈胜歌手$1
+传道者护卫$1
+塑盾师$1
+柯提斯的密探$1
+徐行飓壳龟$1
+撼心暴雪$1
+蛇身智者$1
+敦古岛巨龙$1
+散咒吐息$1
+究龙学者$1
+龙袭暴预报员$1
+菁华定锚$1
+集中精神$1
+面目一新$1
+峰顶司钟$1
+苛严长老$1
+冰脊巨蛇$1
+济奇拉渔罟客$1
+马兰河龙侯$1
+塑生那伽$1
+鸣震指$1
+水上漂$1
+翻搅龙袭暴$1
+鉴宝尸虏$1
+融雪雄鹿$1
+魂魅拒斥$1
+动中有静$1
+临机高僧泰伽姆$1
+铁木尔信徒$1
+无终低语$1
+乌列尼的拒斥$1
+攀冰老手$1
+翼刃学徒$1
+展翼步$1
+冬夜故事$1
+阿布赞信徒$1
+佩饰鳄鱼$1
+激进协商$1
+炼金术士助手$1
+阿列莎遗威$1
+亡魂复仇者$1
+腐蚀吐息$1
+剥蚀龙袭暴$1
+残酷真相$1
+三角洲血蝇$1
+绝命奋起$1
+巨龙捕猎$1
+野性噬尸龙$1
+谷尔玛罗刹$1
+百战老兵$1
+族树滋养师$1
+新进孑遗$1
+夜刃旅团$1
+卡尔西复灵$1
+腐咒罗刹$1
+盐路冲突$1
+砂行前导兵$1
+食腐龙侯$1
+尸虏仪式$1
+泥沼摄政谢迪西$1
+地坑勘探员$1
+战略背叛$1
+扬土塑地客$1
+无根先祖$1
+景仰咏暴师$1
+战争厉嚎$1
+死得其所$1
+雅善会墓穴守卫$1
+裂空龙袭暴$1
+通贯龙炎$1
+科黎钢介刀$1
+虔诚斗僧$1
+龙群创生$1
+均衡专家$1
+圜焰形体$1
+迅逝肖像$1
+虹彩虎$1
+洁斯凯信徒$1
+岩浆残虐者$1
+不苟工匠$1
+熔铁吐息$1
+娜尔施的拒斥$1
+超幅电涌$1
+救援猎豹$1
+传响召唤$1
+登龙萨坎$1
+抓住机遇$1
+震撼旅团$1
+撼击神射手$1
+赛场头牌$1
+雷鳞后裔$1
+鸣霆狂野龙$1
+尖顶威吓者$1
+余晖耀击师$1
+折雳缇莎$1
+双矢击$1
+下风反胜鬼$1
+严厉电击法师$1
+动员备战$1
+乘势突袭$1
+珠高的先锋$1
+犬人旅者$1
+同调猎人$1
+繁蔓龙侯$1
+独缮赛斗士$1
+陨蹄贝西摩斯$1
+狙龙射手$1
+龙族遗宝$1
+杜修特雕地师$1
+侵地龙袭暴$1
+破阵野兽$1
+族群传家宝$1
+复还原貌$1
+激扬先锋$1
+击倒计略$1
+库提虫巢卫$1
+莱希游掠者$1
+大自然的韵律$1
+穿刺吐息$1
+雨幕回春师$1
+复新仪式$1
+漂牧者例巡$1
+龙牙智者$1
+萨谷猛击兽$1
+萨谷野生龙$1
+萨坎的决心$1
+蛇皮帘幕$1
+苏勒台信徒$1
+匿迹猎人苏拉克$1
+同步冲锋$1
+商路特使$1
+游历植物学家$1
+矮丛猎豹$1
+护林多头龙$1
+全军突袭$1
+军备巨龙$1
+极光行列$1
+唤醒荣耀亡者$1
+围攻漠原$1
+族缘灵龙贝托$1
+骨冢屠夫$1
+召集灵龙$1
+科黎山脉坚僧$1
+命道轮回$1
+震颤电流$1
+搅生袭暴龙$1
+龙背突袭$1
+龙爪击$1
+惬然高僧$1
+龙爪艾丝琦$1
+龙牙卫佣兽$1
+阿布赞旭旦芾洛塔$1
+焰爪斗僧$1
+前线冲袭$1
+围攻霜崖$1
+冰川猎龙$1
+围攻晶林$1
+谷尔玛夜巡卫$1
+坚毅策士$1
+围攻黝谷$1
+来生灵东主$1
+注定失败$1
+洁斯凯笔锋师$1
+洁斯凯启示$1
+洁斯凯护殿龙$1
+凯拉奇守护龙$1
+赫鲁护宝龙$1
+族树逐亲$1
+济奇拉掠空鸟$1
+龙牙卫柯提斯$1
+待机而动$1
+莲光舞者$1
+长毛象嚎吼$1
+玛尔都破阵兵$1
+逝者元帅$1
+寺院信使$1
+洁斯凯道宗娜尔施$1
+霆心灵龙涅雳伏$1
+灵道辟路$1
+经年轮回$1
+涤生袭暴龙$1
+罗刹交易$1
+重悟灵道$1
+卫冕胜者$1
+佳誉商人$1
+复活先祖$1
+河轮扫$1
+连绵颂曲之吼$1
+符鳞袭暴龙$1
+逐亲僧侣$1
+道范灵龙席科$1
+冲击犀牛$1
+塑曲法师$1
+音爆鸣龙$1
+坚卫后人$1
+铁木尔战呼人$1
+铁木尔褐毛兽$1
+定德灵龙特瓦尔$1
+团结霆声$1
+双喉袭暴龙$1
+绵颂灵龙乌列尼$1
+旋风袭暴龙$1
+围攻风壁$1
+雅善会守路人$1
+雷霆之裁珠高$1
+阿布赞纪念碑$1
+石生巨龙$1
+龙火剑$1
+龙袭暴示球$1
+烬口哨卫$1
+玉身哨卫$1
+洁斯凯纪念碑$1
+玛尔都纪念碑$1
+碧玉玛珂$1
+苏勒台纪念碑$1
+铁木尔纪念碑$1
+路旁看守人$1
+染血洞窟$1
+繁花沙洲$1
+科黎山脉寺院$1
+拓求围营地$1
+阴沉死水$1
+成形野地$1
+边疆营地$1
+阿拉辛伟城$1
+丛林幽谷$1
+济奇拉村庄$1
+灵龙涡心$1
+漫雾村庄$1
+神秘寺院$1
+游牧人哨站$1
+奢华宫殿$1
+崎岖高地$1
+沙原殿堂$1
+侵蚀荒漠$1
+急流山崖$1
+棘林瀑布$1
+静谧海湾$1
+风蚀峭壁$1
+咆号威龙$1
+马兰河龙侯$1
+食腐龙侯$1
+岩浆残虐者$1
+繁蔓龙侯$1
+风暴之眼乌金$1
