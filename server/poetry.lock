@@ -504,6 +504,24 @@ test = ["Pillow", "contourpy[test-no-images]", "matplotlib"]
 test-no-images = ["pytest", "pytest-cov", "pytest-rerunfailures", "pytest-xdist", "wurlitzer"]
 
 [[package]]
+name = "cos-python-sdk-v5"
+version = "1.9.36"
+description = "cos-python-sdk-v5"
+optional = false
+python-versions = "*"
+groups = ["main"]
+files = [
+    {file = "cos_python_sdk_v5-1.9.36.tar.gz", hash = "sha256:789070f54be11b211a5ba9c0b00c88ec959abd678297dd0e5ffcd6d4d15eb472"},
+]
+
+[package.dependencies]
+crcmod = "*"
+pycryptodome = "*"
+requests = ">=2.8"
+six = "*"
+xmltodict = "*"
+
+[[package]]
 name = "crcmod"
 version = "1.7"
 description = "CRC Generator"
@@ -1562,20 +1580,6 @@ client = ["requests (>=2.21.0)", "websocket-client (>=0.54.0)"]
 docs = ["sphinx"]
 
 [[package]]
-name = "qcloud-cos"
-version = "3.3.6"
-description = "python sdk for tencent qcloud cos"
-optional = false
-python-versions = "*"
-groups = ["main"]
-files = [
-    {file = "qcloud_cos-3.3.6.tar.gz", hash = "sha256:1e564f530cb04fb6c9b9593d9e3a053ca422558d2c59f42271b53ac1078d9218"},
-]
-
-[package.dependencies]
-requests = "*"
-
-[[package]]
 name = "redis"
 version = "4.6.0"
 description = "Python client for Redis database and key-value store"
@@ -1749,7 +1753,19 @@ files = [
 [package.dependencies]
 h11 = ">=0.9.0,<1"
 
+[[package]]
+name = "xmltodict"
+version = "0.14.2"
+description = "Makes working with XML feel like you are working with JSON"
+optional = false
+python-versions = ">=3.6"
+groups = ["main"]
+files = [
+    {file = "xmltodict-0.14.2-py2.py3-none-any.whl", hash = "sha256:20cc7d723ed729276e808f26fb6b3599f786cbc37e06c65e192ba77c40f20aac"},
+    {file = "xmltodict-0.14.2.tar.gz", hash = "sha256:201e7c28bb210e374999d1dde6382923ab0ed1a8a5faeece48ab525b7810a553"},
+]
+
 [metadata]
 lock-version = "2.1"
 python-versions = "^3.10"
-content-hash = "183c9d33a205e584e8db6143c02c822e67bdb080922899d0894bfced5502da63"
+content-hash = "5c3cd4728e0ef29b2878777778847de3c82758aa0eaf58e950c3b11b9b199325"
