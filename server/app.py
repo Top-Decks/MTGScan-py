@@ -1,10 +1,10 @@
+from utils.txoss import TXOSSUtil
 import eventlet
 
 # 在导入其他模块之前进行monkey patch
 eventlet.monkey_patch()
 
 from datetime import datetime
-from utils.oss import OSSUtil
 import base64
 import os
 from pathlib import Path
@@ -32,7 +32,7 @@ class ScanTask(Task):
                                      file_keywords=(
                                          DIR_DATA / "Keywords.json"),
                                      max_ratio_diff=0.3)
-        self._oss = OSSUtil()
+        self._oss = TXOSSUtil()
 
 
 @app.route("/")

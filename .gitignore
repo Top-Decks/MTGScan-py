@@ -1,3 +1,4 @@
 *.pyc
 azure.env 
 redis/
+.env
