@@ -31349,3 +31349,717 @@ Ugin, Eye of the Storms$1
 岩浆残虐者$1
 繁蔓龙侯$1
 风暴之眼乌金$1
+Summon: Bahamut$1
+Ultima, Origin of Oblivion$1
+Adelbert Steiner$1
+Aerith Gainsborough$1
+Aerith Rescue Mission$1
+Ambrosia Whiteheart$1
+Ashe, Princess of Dalmasca$1
+Auron's Inspiration$1
+Battle Menu$1
+Cloud, Midgar Mercenary$1
+Cloudbound Moogle$1
+Coeurl$1
+Crystal Fragments$1
+The Crystal's Chosen$1
+Delivery Moogle$1
+Dion, Bahamut's Dominant$1
+Dragoon's Lance$1
+Dwarven Castle Guard$1
+Fate of the Sun-Cryst$1
+From Father to Son$1
+G'raha Tia$1
+Gaelicat$1
+Machinist's Arsenal$1
+Magitek Armor$1
+Magitek Infantry$1
+Minwu, White Mage$1
+Moogles' Valor$1
+Paladin's Arms$1
+Phoenix Down$1
+Restoration Magic$1
+Sidequest: Catch a Fish$1
+Slash of Light$1
+Snow Villiers$1
+Stiltzkin, Moogle Merchant$1
+Summon: Choco/Mog$1
+Summon: Knights of Round$1
+Summon: Primal Garuda$1
+Ultima$1
+Venat, Heart of Hydaelyn$1
+Weapons Vendor$1
+White Auracite$1
+White Mage's Staff$1
+The Wind Crystal$1
+You're Not Alone$1
+Zack Fair$1
+Astrologian's Planisphere$1
+Cargo Ship$1
+Combat Tutorial$1
+Dragoon's Wyvern$1
+Dreams of Laguna$1
+Edgar, King of Figaro$1
+Eject$1
+Ether$1
+Gogo, Master of Mimicry$1
+Ice Flan$1
+Ice Magic$1
+Il Mheg Pixie$1
+Jill, Shiva's Dominant$1
+Louisoix's Sacrifice$1
+The Lunar Whale$1
+Magic Damper$1
+Matoya, Archon Elder$1
+Memories Returning$1
+The Prima Vista$1
+Qiqirn Merchant$1
+Quistis Trepe$1
+Relm's Sketching$1
+Retrieve the Esper$1
+Rook Turret$1
+Sage's Nouliths$1
+Sahagin$1
+Scorpion Sentinel$1
+Sidequest: Card Collection$1
+Sleep Magic$1
+Stolen Uniform$1
+Stuck in Summoner's Sanctum$1
+Summon: Leviathan$1
+Summon: Shiva$1
+Swallowed by Leviathan$1
+Syncopate$1
+Thief's Knife$1
+Travel the Overworld$1
+Ultros, Obnoxious Octopus$1
+Valkyrie Aerial Unit$1
+The Water Crystal$1
+Y'shtola Rhul$1
+Ahriman$1
+Al Bhed Salvagers$1
+Ardyn, the Usurper$1
+Black Mage's Rod$1
+Cecil, Dark Knight$1
+Circle of Power$1
+Cornered by Black Mages$1
+Dark Confidant$1
+Dark Knight's Greatsword$1
+The Darkness Crystal$1
+Demon Wall$1
+Evil Reawakened$1
+Fang, Fearless l'Cie$1
+Fight On!$1
+The Final Days$1
+Gaius van Baelsar$1
+Hecteyes$1
+Jecht, Reluctant Guardian$1
+Kain, Traitorous Dragoon$1
+Malboro$1
+Namazu Trader$1
+Ninja's Blades$1
+Overkill$1
+Phantom Train$1
+Poison the Waters$1
+Qutrub Forayer$1
+Reno and Rude$1
+Resentful Revelation$1
+Sephiroth, Fabled SOLDIER$1
+Sephiroth's Intervention$1
+Shambling Cie'th$1
+Shinra Reinforcements$1
+Sidequest: Hunt the Mark$1
+Summon: Anima$1
+Summon: Primal Odin$1
+Tonberry$1
+Undercity Dire Rat$1
+Vayne's Treachery$1
+Vincent Valentine$1
+Vincent's Limit Break$1
+Zenos yae Galvus$1
+Zodiark, Umbral God$1
+Barret Wallace$1
+Blazing Bomb$1
+Call the Mountain Chocobo$1
+Choco-Comet$1
+Clive, Ifrit's Dominant$1
+Coral Sword$1
+The Fire Crystal$1
+Fire Magic$1
+Firion, Wild Rose Warrior$1
+Freya Crescent$1
+Gilgamesh, Master-at-Arms$1
+Haste Magic$1
+Hill Gigas$1
+Item Shopkeep$1
+Laughing Mad$1
+Light of Judgment$1
+Mysidian Elder$1
+Nibelheim Aflame$1
+Opera Love Song$1
+Prompto Argentum$1
+Queen Brahne$1
+Random Encounter$1
+Raubahn, Bull of Ala Mhigo$1
+Red Mage's Rapier$1
+Sabotender$1
+Samurai's Katana$1
+Sandworm$1
+Seifer Almasy$1
+Self-Destruct$1
+Sidequest: Play Blitzball$1
+Sorceress's Schemes$1
+Summon: Brynhildr$1
+Summon: Esper Ramuh$1
+Summon: G.F. Cerberus$1
+Summon: G.F. Ifrit$1
+Suplex$1
+Thunder Magic$1
+Triple Triad$1
+Unexpected Request$1
+Vaan, Street Thief$1
+Warrior's Sword$1
+Zell Dincht$1
+Airship Crash$1
+Ancient Adamantoise$1
+Balamb T-Rexaur$1
+Bard's Bow$1
+Bartz and Boko$1
+Blitzball Shot$1
+Cactuar$1
+Chocobo Kick$1
+Chocobo Racetrack$1
+Clash of the Eikons$1
+Coliseum Behemoth$1
+Commune with Beavers$1
+Diamond Weapon$1
+The Earth Crystal$1
+Esper Origins$1
+Galuf's Final Act$1
+Gigantoad$1
+Goobbue Gardener$1
+Gran Pulse Ochu$1
+Gysahl Greens$1
+Jumbo Cactuar$1
+Loporrit Scout$1
+Prishe's Wanderings$1
+Quina, Qu Gourmet$1
+Reach the Horizon$1
+A Realm Reborn$1
+Ride the Shoopuf$1
+Rydia's Return$1
+Sazh Katzroy$1
+Sazh's Chocobo$1
+Sidequest: Raise a Chocobo$1
+Summon: Fat Chocobo$1
+Summon: Fenrir$1
+Summon: Titan$1
+Summoner's Grimoire$1
+Tifa Lockhart$1
+Tifa's Limit Break$1
+Torgal, A Fine Hound$1
+Town Greeter$1
+Traveling Chocobo$1
+Vanille, Cheerful l'Cie$1
+Absolute Virtue$1
+Balthier and Fran$1
+Black Waltz No. 3$1
+Choco, Seeker of Paradise$1
+Cid, Timeless Artificer$1
+Cloud of Darkness$1
+Emet-Selch, Unsundered$1
+The Emperor of Palamecia$1
+Exdeath, Void Warlock$1
+Garland, Knight of Cornelia$1
+Garnet, Princess of Alexandria$1
+Giott, King of the Dwarves$1
+Gladiolus Amicitia$1
+Golbez, Crystal Collector$1
+Hope Estheim$1
+Ignis Scientia$1
+Jenova, Ancient Calamity$1
+Joshua, Phoenix's Dominant$1
+Judge Magister Gabranth$1
+Kefka, Court Mage$1
+Kuja, Genome Sorcerer$1
+Lightning, Army of One$1
+Locke Cole$1
+Noctis, Prince of Lucis$1
+Omega, Heartless Evolution$1
+Rinoa Heartilly$1
+Rufus Shinra$1
+Rydia, Summoner of Mist$1
+Serah Farron$1
+Shantotto, Tactician Magician$1
+Sin, Spira's Punishment$1
+Squall, SeeD Mercenary$1
+Tellah, Great Sage$1
+Terra, Magical Adept$1
+Tidus, Blitzball Star$1
+Ultimecia, Time Sorceress$1
+Vivi Ornitier$1
+The Wandering Minstrel$1
+Yuna, Hope of Spira$1
+Zidane, Tantalus Thief$1
+Adventurer's Airship$1
+Aettir and Priwen$1
+Blitzball$1
+Buster Sword$1
+Elixir$1
+Excalibur II$1
+Genji Glove$1
+Instant Ramen$1
+Iron Giant$1
+Lion Heart$1
+Lunatic Pandora$1
+Magic Pot$1
+The Masamune$1
+Monk's Fist$1
+PuPu UFO$1
+The Regalia$1
+Relentless X-ATM092$1
+Ring of the Lucii$1
+World Map$1
+Adventurer's Inn$1
+Balamb Garden, SeeD Academy$1
+Baron, Airship Kingdom$1
+Capital City$1
+Clive's Hideaway$1
+Crossroads Village$1
+Eden, Seat of the Sanctum$1
+Gohn, Town of Ruin$1
+The Gold Saucer$1
+Gongaga, Reactor Town$1
+Guadosalam, Farplane Gateway$1
+Insomnia, Crown City$1
+Ishgard, the Holy See$1
+Jidoor, Aristocratic Capital$1
+Lindblum, Industrial Regency$1
+Midgar, City of Mako$1
+Rabanastre, Royal City$1
+Sharlayan, Nation of Scholars$1
+Starting Town$1
+Treno, Dark City$1
+Vector, Imperial Capital$1
+Windurst, Federation Center$1
+Ragnarok, Divine Deliverance$1
+Adeline, Resplendent Cathar$1
+Ranger-Captain of Eos$1
+Sram, Senior Edificer$1
+Counterspell$1
+Urza, Lord High Artificer$1
+Venser, Shaper Savant$1
+Bolas's Citadel$1
+Dark Ritual$1
+Fatal Push$1
+Syr Konrad, the Grim$1
+Yawgmoth, Thran Physician$1
+Ancient Copper Dragon$1
+Godo, Bandit Warlord$1
+Purphoros, God of the Forge$1
+Azusa, Lost but Seeking$1
+Nyxbloom Ancient$1
+Jodah, the Unifier$1
+Tymna the Weaver$1
+Winota, Joiner of Forces$1
+Traxos, Scourge of Kroog$1
+Akroma's Will$1
+Danitha Capashen, Paragon$1
+Kenrith, the Returned King$1
+Loran of the Third Path$1
+Mangara, the Diplomat$1
+Stroke of Midnight$1
+Wall of Omens$1
+Brainstorm$1
+Cryptic Command$1
+Laboratory Maniac$1
+Rhystic Study$1
+Teferi, Mage of Zhalfir$1
+Deadly Dispute$1
+Diabolic Intent$1
+Gix, Yawgmoth Praetor$1
+K'rrik, Son of Yawgmoth$1
+Varragoth, Bloodsky Sire$1
+Captain Lannery Storm$1
+Light Up the Stage$1
+Lightning Bolt$1
+Mizzix's Mastery$1
+Najeela, the Blade-Blossom$1
+Ragavan, Nimble Pilferer$1
+Carpet of Flowers$1
+Farseek$1
+Fynn, the Fangbearer$1
+Nature's Claim$1
+Primeval Titan$1
+Atraxa, Grand Unifier$1
+Bruse Tarl, Boorish Herder$1
+Dovin's Veto$1
+Inalla, Archmage Ritualist$1
+Ishai, Ojutai Dragonspeaker$1
+Isshin, Two Heavens as One$1
+Kinnan, Bonder Prodigy$1
+Kraum, Ludevic's Opus$1
+Muldrotha, the Gravetide$1
+Thrasios, Triton Hero$1
+Vial Smasher the Fierce$1
+Yuriko, the Tiger's Shadow$1
+Chromatic Lantern$1
+Smuggler's Copter$1
+Strixhaven Stadium$1
+Command Beacon$1
+华辉护教军艾德琳$1
+亿欧护林队长$1
+资深建筑师斯勒姆$1
+反击咒语$1
+铸物勋爵克撒$1
+塑形学者凡瑟$1
+波拉斯尊殿$1
+黑暗祭礼$1
+送终一击$1
+冷酷孔纳德爵士$1
+索蓝医师约格莫夫$1
+远古赤铜龙$1
+山贼王伍堂$1
+熔锻神普罗烽斯$1
+云游者梓纱$1
+天华先人$1
+诸界一统裘达$1
+织命使堤谟娜$1
+聚力领袖薇诺塔$1
+萼城劫运刹索斯$1
+爱若玛的意志$1
+典范达妮莎卡帕轩$1
+复归国王肯理斯$1
+蹊径会的罗兰$1
+使节曼格拉$1
+午夜钟声$1
+预兆墙$1
+脑力激荡$1
+地下指命$1
+实验室狂人$1
+琉晶研究$1
+赛费尔法师泰菲力$1
+致命争执$1
+恶魔意图$1
+约格莫夫判官基克斯$1
+约格莫夫之子格锐克$1
+腥天君父威拉格斯$1
+兰娜莉速腾船长$1
+照亮舞台$1
+闪电击$1
+米捷兹的精研$1
+剑花娜吉拉$1
+巧手窃猴勒格文$1
+花之毯$1
+远眺$1
+持牙人芬恩$1
+还诸自然$1
+太古泰坦$1
+大一统飞将亚崔夏$1
+粗鲁牧人布斯陶$1
+多温的否决$1
+仪法大师因娜拉$1
+欧祝泰族龙语者依谢$1
+二天一流一心$1
+持绊逸才季宁$1
+卢德维佳作寇姆$1
+腐潮穆杜塔$1
+屈东英雄萨拉希洛斯$1
+砸瓶女汉子$1
+虎影百合子$1
+五彩宫灯$1
+走私直升机$1
+斯翠海文赛场$1
+指挥信标$1
+召唤：巴哈姆特$1
+原初的生命体阿尔蒂玛$1
+阿德尔伯特·斯坦纳$1
+爱丽丝·盖恩斯巴勒$1
+爱丽丝救援作战$1
+罗扎利亚之心安布洛西亚$1
+达玛斯卡公主雅雪$1
+奥隆的鼓舞$1
+战斗菜单$1
+米德加佣兵克劳德$1
+云海莫古力$1
+长须豹$1
+封印宝珠$1
+水晶选召者$1
+邮差莫古力$1
+巴哈姆特显化者狄翁$1
+龙骑士的长枪$1
+矮人城守卫$1
+天阳之茧的末路$1
+父传子继$1
+古·拉哈·提亚$1
+风筝猫$1
+机工士的军备$1
+魔导装甲$1
+魔导兵$1
+白魔导师敏武$1
+莫古力之勇$1
+骑士的剑盾$1
+不死鸟之尾$1
+恢复魔法$1
+支线任务：钓鱼$1
+光之一闪$1
+斯诺·维里耶$1
+莫古力商人斯蒂尔兹金$1
+召唤：陆行鸟和莫古力$1
+召唤：圆桌骑士$1
+召唤：蛮神迦楼罗$1
+究极$1
+海德林之心维涅斯$1
+武器店老板$1
+白圣石$1
+白魔法师的幻杖$1
+风之水晶$1
+并非孤单$1
+扎克斯·菲尔$1
+占星术士的天球仪$1
+货船$1
+战斗教学$1
+龙骑士的飞龙$1
+拉格那之梦$1
+费加罗国王埃德加$1
+弹离$1
+以太药$1
+模仿大师格格$1
+冰软糊怪$1
+冰魔法$1
+伊尔美格仙子$1
+希瓦显化者吉尔$1
+路易索瓦献身$1
+魔导船$1
+魔法无效$1
+贤者玛托雅$1
+回忆重现$1
+剧场艇初见号$1
+卢恩族商人$1
+奎斯缇丝·萃普$1
+瑞姆的速写$1
+夺回幻兽$1
+车式浮空炮塔$1
+贤者的贤具$1
+鱼人族$1
+守卫巨蝎$1
+支线任务：收藏幻卡$1
+催眠魔法$1
+窃来制服$1
+受困召唤士室$1
+召唤：利维亚桑$1
+召唤：希瓦$1
+利维亚桑吞噬$1
+切分$1
+盗贼的匕首$1
+环游世界$1
+恼人章鱼奥尔特罗斯$1
+螺旋飞行重炮$1
+水之水晶$1
+雅·修特拉·路尔$1
+阿里曼$1
+阿尔贝德族打捞客$1
+篡位者亚丹$1
+黑魔法师的咒杖$1
+暗黑骑士塞西尔$1
+黑魔纹$1
+黑魔法师之困$1
+黑暗亲信$1
+暗黑骑士的双手剑$1
+暗之水晶$1
+恶魔墙$1
+邪恶复苏$1
+无畏路希牙$1
+继续战斗！$1
+末日之劫$1
+盖乌斯·范·巴埃萨$1
+百目妖$1
+迫任护卫杰克特$1
+变节龙骑士凯因$1
+魔界花$1
+鲶鱼精商人$1
+忍者的双剑$1
+超量斩杀$1
+魔列车$1
+水中投毒$1
+突袭腐尸鬼$1
+雷诺与路德$1
+慨愤真相$1
+传奇神罗战士萨菲罗斯$1
+萨菲罗斯的干预$1
+跛行尸骸$1
+神罗援兵$1
+支线任务：怪物狩猎$1
+召唤：阿尼玛$1
+召唤：蛮神奥丁$1
+冬贝利$1
+水路变异鼠$1
+裴因之变$1
+文森特·瓦伦丁$1
+文森特的极限招式$1
+芝诺斯·耶·加尔乌斯$1
+暗之神佐迪亚克$1
+巴雷特·华莱士$1
+炽焰爆弹怪$1
+唤出山陆行鸟$1
+陆行鸟彗星$1
+伊弗利特显化者克莱夫$1
+珊瑚剑$1
+火之水晶$1
+火魔法$1
+野玫瑰战士弗利奥尼尔$1
+芙蕾娅·克雷森特$1
+诸武精通吉尔伽美什$1
+急速魔法$1
+山岭巨人$1
+道具店主$1
+放声狂笑$1
+制裁之光$1
+密西迪亚长老$1
+焚毁尼布尔海姆$1
+歌剧院咏叹调$1
+普隆普特·亚金塔姆$1
+布拉妮女王$1
+随机遇敌$1
+阿拉米格猛牛劳班$1
+赤魔法师的刺剑$1
+东阿特帕仙人刺$1
+武士的武士刀$1
+沙地巨虫$1
+塞法·阿尔马西$1
+自爆$1
+支线任务：水斗球赛$1
+魔女的野心$1
+召唤：布伦希尔德$1
+召唤：幻兽拉姆$1
+召唤：G.F.刻耳柏洛斯$1
+召唤：G.F.伊弗利特$1
+陨石撞击$1
+雷魔法$1
+九宫幻卡$1
+意外请求$1
+无羁少年梵恩$1
+战士的剑$1
+塞尔·迪恩$1
+飞空艇坠毁$1
+远古精金龟$1
+巴拉姆古恐龙$1
+吟游诗人的弓$1
+巴兹与波可$1
+野牛射门$1
+仙人刺$1
+陆行鸟踢$1
+陆行鸟赛跑场$1
+召唤兽大战$1
+斗技场贝希摩斯$1
+河狸商谈$1
+钻石神兵$1
+土之水晶$1
+幻兽起源$1
+加拉夫的终幕$1
+巨蟾蜍$1
+古菩猩猩园丁$1
+大脉冲食腐兽$1
+基萨尔野菜$1
+巨型仙人刺$1
+兔兔族斥候$1
+普利修的漫游$1
+食族饕客阿馋$1
+极目天际$1
+重生之境$1
+搭乘幻光象$1
+莉迪亚归来$1
+萨兹·卡兹罗伊$1
+萨兹的陆行鸟$1
+支线任务：培育陆行鸟$1
+召唤：胖陆行鸟$1
+召唤：芬里尔$1
+召唤：泰坦$1
+召唤师的魔导书$1
+蒂法·洛克哈特$1
+蒂法的极限招式$1
+好搭档托加尔$1
+迎宾镇民$1
+旅行陆行鸟$1
+愉悦路希班尼拉$1
+绝对的美德$1
+巴夫雷尔与法兰$1
+黑色华尔兹3号$1
+桃源寻旅巧克$1
+历时神器师西德$1
+暗黑之云$1
+原生种无影爱梅特赛尔克$1
+帕拉美奇亚皇帝$1
+无之魔法师艾克斯迪司$1
+科内利亚骑士加兰德$1
+亚历山德里亚公主嘉妮特$1
+矮人王乔特$1
+古拉迪欧拉斯·阿米西提亚$1
+水晶收集客高贝扎$1
+霍普·埃斯特海姆$1
+伊格尼斯·斯堪提亚$1
+古来灾厄杰诺瓦$1
+不死鸟显化者约书亚$1
+最高审判者加布蓝斯$1
+宫廷魔法师凯夫卡$1
+基因组术士库加$1
+王牌驱散雷光$1
+洛克·科尔$1
+路西斯王子诺克提斯$1
+无心之物欧米茄$1
+莉诺雅·哈提利$1
+路法斯·神罗$1
+迷雾召唤师莉迪亚$1
+莎拉·法隆$1
+联邦军师香托托$1
+史匹拉天罚辛$1
+SeeD佣兵斯考尔$1
+大贤者泰拉$1
+魔导战士蒂娜$1
+水斗球王牌提达$1
+时之魔女阿尔提米西亚$1
+比比·奥尼提尔$1
+异国的诗人$1
+史匹拉之望尤娜$1
+坦塔罗斯盗贼吉坦$1
+冒险者的飞空艇$1
+血族剑与圣母盾$1
+水斗球$1
+毁灭剑$1
+圣灵药$1
+王者之剑II$1
+源氏之护手$1
+方便面$1
+铁巨人$1
+雄狮之心$1
+疯狂潘多拉$1
+魔法罐$1
+正宗$1
+武僧的拳套$1
+可幽可幽的UFO？$1
+雷迦利亚$1
+难缠的X-ATM092$1
+光耀之戒$1
+世界地图$1
+冒险者的旅店$1
+SeeD学院巴拉姆学苑$1
+飞空艇王国巴隆$1
+首都$1
+克莱夫的藏身处$1
+岔路村庄$1
+圣府首都伊甸$1
+废墟之镇戈恩$1
+金碟游乐园$1
+荒废魔晄炉贡加加村$1
+异界门户古阿多萨拉姆$1
+王都印索穆尼亚$1
+皇都伊修加德$1
+贵族之都吉多尔$1
+工业公国林德布尔姆$1
+魔晄都市米德加$1
+王都拉巴纳斯塔$1
+知识之都萨雷安$1
+初始市镇$1
+夜之都特雷诺$1
+帝国首都威克托$1
+联邦首邑温达斯$1
+神圣救赎诸神黄昏$1
