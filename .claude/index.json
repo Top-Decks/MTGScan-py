@@ -1,0 +1,50 @@
+{
+  "timestamp": "2025-08-23T00:00:00Z",
+  "root_path": "/Users/jinyu/Work/mtga/mtgscan-app",
+  "modules": [
+    {
+      "path": "server",
+      "language": "Python",
+      "entry_points": ["app.py"],
+      "interfaces": [
+        "WebSocket: scan, scan_result",
+        "REST: GET /api/<url>",
+        "REST: POST /api/fuzzy_search"
+      ],
+      "dependencies": ["pyproject.toml", "poetry.lock"],
+      "data_models": ["data/all_cards.txt", "data/Keywords.json"],
+      "test_status": "missing",
+      "coverage_gaps": ["unit_tests", "integration_tests", "e2e_tests"]
+    },
+    {
+      "path": "redis",
+      "language": "Config",
+      "entry_points": ["redis.conf"],
+      "interfaces": ["Redis protocol"],
+      "dependencies": [],
+      "data_models": [],
+      "test_status": "missing",
+      "coverage_gaps": ["configuration_validation", "connection_testing"]
+    }
+  ],
+  "file_stats": {
+    "total_files": 32,
+    "scanned_files": 15,
+    "coverage_percentage": 46.9,
+    "ignored_files": 17,
+    "ignored_reasons": {
+      "pycache": "Python 缓存文件",
+      "lock_files": "依赖锁文件",
+      "binary_data": "卡牌数据文件"
+    }
+  },
+  "scan_status": {
+    "truncated": false,
+    "reason": "完整扫描完成",
+    "next_scan_targets": [
+      "server/utils/apiclient.py",
+      "server/utils/oss.py",
+      "测试目录和文件补充"
+    ]
+  }
+}
