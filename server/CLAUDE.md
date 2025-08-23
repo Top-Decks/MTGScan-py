@@ -35,13 +35,17 @@ poetry run celery -A app.celery worker -P eventlet --loglevel=info
 ### WebSocket 接口
 - `scan` 事件: 接收图像数据进行识别
 - `scan_result` 事件: 返回识别结果和标注图像
+- `scan_text_only` 事件: 接收图像数据进行识别（仅返回文本结果）
+- `scan_text_result` 事件: 返回纯文本识别结果
 
 ### REST API 接口
 - `GET /api/<url>`: 通过 URL 识别图像中的卡牌
+- `GET /api/text_only/<url>`: 通过 URL 识别图像中的卡牌（仅返回文本结果）
 - `POST /api/fuzzy_search`: 模糊搜索卡牌名称
 
 ### 主要路由
 - `GET /`: 主页面渲染
+- `GET /api/text_only/<path:url>`: 仅返回卡牌文本结果的API接口
 
 ## 关键依赖与配置
 
@@ -98,6 +102,9 @@ A: 实现 OCR 服务接口抽象，支持多提供商切换。
 ### Q: 卡牌识别准确率如何优化？
 A: 调整 `max_ratio_diff` 参数，优化卡牌数据库，添加图像预处理。
 
+### Q: 如何只获取卡牌文本结果而不需要图片？
+A: 使用新增的 `scan_text_only` WebSocket 事件或 `/api/text_only/<url>` HTTP 接口。
+
 ## 相关文件清单
 
 - `app.py` - 主应用文件
@@ -120,6 +127,11 @@ A: 调整 `max_ratio_diff` 参数，优化卡牌数据库，添加图像预处�
 - 创建 server 模块 CLAUDE.md 文档
 - 记录模块结构、接口和依赖信息
 - 标识测试缺口和质量改进建议
+
+### 2025-08-23 - 新增纯文本接口
+- 新增 `scan_text_only` WebSocket 事件处理
+- 新增 `/api/text_only/<url>` HTTP 路由
+- 两个接口均只返回卡牌识别文本结果，不包含图片
 
 ### 近期变更
 - 替换 qcloud-cos 为 cos-python-sdk-v5

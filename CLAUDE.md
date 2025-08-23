@@ -45,6 +45,12 @@ graph TD
 | `server/` | Python | Web 服务器和任务处理 | `app.py` | 无测试 |
 | `redis/` | Config | Redis 配置和部署 | `redis.conf` | 无测试 |
 
+## 新增接口说明
+
+### 仅返回文本结果的接口
+- **WebSocket**: 使用 `scan_text_only` 事件发送图像，接收 `scan_text_result` 事件返回纯卡牌结果
+- **HTTP**: 访问 `/api/text_only/<image_url>` 获取纯卡牌结果
+
 ## 运行与开发
 
 ### 环境要求
@@ -100,6 +106,11 @@ cd server && poetry run gunicorn -w 8 -k eventlet --timeout 120 -b 0.0.0.0:5002 
 - 创建根级 CLAUDE.md 文档
 - 添加项目架构总览和模块结构图
 - 记录当前项目状态和测试缺口
+
+### 2025-08-23 - 新增纯文本接口
+- 新增 `scan_text_only` WebSocket 事件
+- 新增 `/api/text_only/<url>` HTTP 接口
+- 两个接口均只返回卡牌识别文本结果，不包含图片
 
 ### 近期提交记录
 - f6a9d0c: refactor(data): 更新 all_cards.txt 中的卡牌数据

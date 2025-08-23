@@ -1,5 +1,9 @@
 {
   "timestamp": "2025-08-23T00:00:00Z",
+  "new_interfaces_added": [
+    "WebSocket: scan_text_only, scan_text_result",
+    "HTTP: GET /api/text_only/<url>"
+  ],
   "root_path": "/Users/jinyu/Work/mtga/mtgscan-app",
   "modules": [
     {
@@ -7,8 +11,9 @@
       "language": "Python",
       "entry_points": ["app.py"],
       "interfaces": [
-        "WebSocket: scan, scan_result",
+        "WebSocket: scan, scan_result, scan_text_only, scan_text_result",
         "REST: GET /api/<url>",
+        "REST: GET /api/text_only/<url>",
         "REST: POST /api/fuzzy_search"
       ],
       "dependencies": ["pyproject.toml", "poetry.lock"],
@@ -40,7 +45,7 @@
   },
   "scan_status": {
     "truncated": false,
-    "reason": "完整扫描完成",
+    "reason": "完整扫描完成，已添加新接口",
     "next_scan_targets": [
       "server/utils/apiclient.py",
       "server/utils/oss.py",

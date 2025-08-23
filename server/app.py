@@ -46,6 +46,12 @@ def scan_io(msg):
     scan_celery.delay(msg)
 
 
+@socketio.on("scan_text_only")
+def scan_text_only_io(msg):
+    print("scan_text_only_io")
+    scan_text_only_celery.delay(msg)
+
+
 @celery.task(base=ScanTask)
 def scan_celery(msg):
     print("scan_celery")
@@ -55,6 +61,16 @@ def scan_celery(msg):
         sio = SocketIO(message_queue=REDIS_URL)
         sio.emit("scan_result", {
                  "deck": deck.maindeck.cards, "result_img": img_url, "origin_img": msg['image']}, room=msg["id"])
+
+
+@celery.task(base=ScanTask)
+def scan_text_only_celery(msg):
+    print("scan_text_only_celery")
+    with app.app_context():
+        deck, _ = scan(scan_text_only_celery._rec, msg)
+        sio = SocketIO(message_queue=REDIS_URL)
+        sio.emit("scan_text_result", {
+                 "deck": deck.maindeck.cards, "sideboard": deck.sideboard.cards}, room=msg["id"])
 
 
 def scan(rec, msg):
@@ -97,7 +113,19 @@ def api_scan(url):
                            max_ratio_diff=0.3)
     print("api_scan")
     print(url)
-    deck = scan(rec, url)
+    deck, img = scan(rec, {"image": url})
+    img_url = TXOSSUtil().upload_img(img)
+    return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards, "result_img": img_url})
+
+
+@app.route("/api/text_only/<path:url>")
+def api_scan_text_only(url):
+    rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
+                           file_keywords=(DIR_DATA / "Keywords.json"),
+                           max_ratio_diff=0.3)
+    print("api_scan_text_only")
+    print(url)
+    deck, _ = scan(rec, {"image": url})
     return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards})
 
 
