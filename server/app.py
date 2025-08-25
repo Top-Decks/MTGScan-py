@@ -55,17 +55,21 @@ def scan_text_only_io(msg):
 @celery.task(base=ScanTask)
 def scan_celery(msg):
     print("scan_celery")
+    print(f"Processing image type: {'base64' if is_base64_image(msg['image']) else 'URL'}")
     with app.app_context():
         deck, img = scan(scan_celery._rec, msg)
         img_url = scan_celery._oss.upload_img(img)
         sio = SocketIO(message_queue=REDIS_URL)
+        # 避免在响应中包含原始base64数据
+        origin_img = msg['image'] if not is_base64_image(msg['image']) else "[base64_image_data]"
         sio.emit("scan_result", {
-                 "deck": deck.maindeck.cards, "result_img": img_url, "origin_img": msg['image']}, room=msg["id"])
+                 "deck": deck.maindeck.cards, "result_img": img_url, "origin_img": origin_img}, room=msg["id"])
 
 
 @celery.task(base=ScanTask)
 def scan_text_only_celery(msg):
     print("scan_text_only_celery")
+    print(f"Processing image type: {'base64' if is_base64_image(msg['image']) else 'URL'}")
     with app.app_context():
         deck, _ = scan(scan_text_only_celery._rec, msg)
         sio = SocketIO(message_queue=REDIS_URL)
@@ -73,10 +77,44 @@ def scan_text_only_celery(msg):
                  "deck": deck.maindeck.cards, "sideboard": deck.sideboard.cards}, room=msg["id"])
 
 
+def is_base64_image(image_data):
+    """
+    检测输入是否为base64编码的图片数据
+    :param image_data: 输入的图片数据
+    :return: True如果是base64，False如果是URL
+    """
+    if isinstance(image_data, str):
+        # 检查是否是URL格式
+        if image_data.startswith(('http://', 'https://')):
+            return False
+        # 检查是否是base64格式（通常很长且包含base64字符）
+        if len(image_data) > 100 and all(c in 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=' for c in image_data):
+            return True
+    return False
+
+
 def scan(rec, msg):
+    """
+    扫描图片并识别卡牌
+    :param rec: MagicRecognition实例
+    :param msg: 包含图片数据的消息
+    :return: 识别结果和处理后的图片
+    """
     azure = Azure()
     print("scan")
-    box_texts = azure.image_to_box_texts(msg["image"], True)
+    
+    image_input = msg["image"]
+    
+    # 检测输入类型并相应处理
+    if is_base64_image(image_input):
+        print("Processing base64 image")
+        # 对于base64图片，需要传递给Azure OCR的特殊处理方法
+        box_texts = azure.image_to_box_texts(image_input, False)  # False表示base64格式
+    else:
+        print("Processing URL image")
+        # 对于URL图片，使用原有的处理方式
+        box_texts = azure.image_to_box_texts(image_input, True)   # True表示URL格式
+    
     box_cards = rec.box_texts_to_cards(box_texts)
     rec._assign_stacked(box_texts, box_cards)
     deck = rec.box_texts_to_deck(box_texts)
@@ -108,24 +146,63 @@ def api_search_cards():
 
 @app.route("/api/<path:url>")
 def api_scan(url):
+    """处理GET请求的图片扫描，通过URL参数传递图片URL"""
     rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
                            file_keywords=(DIR_DATA / "Keywords.json"),
                            max_ratio_diff=0.3)
-    print("api_scan")
-    print(url)
+    print("api_scan (GET)")
+    print(f"Image data type: {'base64' if is_base64_image(url) else 'URL'}")
     deck, img = scan(rec, {"image": url})
+    img_url = TXOSSUtil().upload_img(img)
+    return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards, "result_img": img_url})
+
+
+@app.route("/api/scan", methods=["POST"])
+def api_scan_post():
+    """处理POST请求的图片扫描，支持base64编码的图片数据"""
+    rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
+                           file_keywords=(DIR_DATA / "Keywords.json"),
+                           max_ratio_diff=0.3)
+    
+    data = request.get_json()
+    if not data or 'image' not in data:
+        return jsonify({"error": "Missing image data"}), 400
+    
+    print("api_scan (POST)")
+    print(f"Image data type: {'base64' if is_base64_image(data['image']) else 'URL'}")
+    
+    deck, img = scan(rec, {"image": data['image']})
     img_url = TXOSSUtil().upload_img(img)
     return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards, "result_img": img_url})
 
 
 @app.route("/api/text_only/<path:url>")
 def api_scan_text_only(url):
+    """处理GET请求的纯文本扫描，通过URL参数传递图片URL"""
     rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
                            file_keywords=(DIR_DATA / "Keywords.json"),
                            max_ratio_diff=0.3)
-    print("api_scan_text_only")
-    print(url)
+    print("api_scan_text_only (GET)")
+    print(f"Image data type: {'base64' if is_base64_image(url) else 'URL'}")
     deck, _ = scan(rec, {"image": url})
+    return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards})
+
+
+@app.route("/api/text_only", methods=["POST"])
+def api_scan_text_only_post():
+    """处理POST请求的纯文本扫描，支持base64编码的图片数据"""
+    rec = MagicRecognition(file_all_cards=str(DIR_DATA / "all_cards.txt"),
+                           file_keywords=(DIR_DATA / "Keywords.json"),
+                           max_ratio_diff=0.3)
+    
+    data = request.get_json()
+    if not data or 'image' not in data:
+        return jsonify({"error": "Missing image data"}), 400
+    
+    print("api_scan_text_only (POST)")
+    print(f"Image data type: {'base64' if is_base64_image(data['image']) else 'URL'}")
+    
+    deck, _ = scan(rec, {"image": data['image']})
     return jsonify({"maindeck": deck.maindeck.cards, "sideboard": deck.sideboard.cards})
 
 
