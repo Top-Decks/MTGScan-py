@@ -36752,3 +36752,187 @@ Suburban Sanctuary$1
 University Campus$1
 Urban Retreat$1
 Vibrant Cityscape$1
+Zuko's Exile$1
+Brought Back$1
+Drannith Magistrate$1
+Empty City Ruse$1
+Lita, Mechanical Engineer$1
+Release to Memory$1
+Scout's Warning$1
+Teferi's Protection$1
+Three Dreams$1
+Agent of Treachery$1
+Bribery$1
+Clone$1
+Clone Legion$1
+Force of Negation$1
+Imprisoned in the Moon$1
+Intruder Alarm$1
+Mystic Remora$1
+Prosperity$1
+Sakashima of a Thousand Faces$1
+Standstill$1
+Training Grounds$1
+Visions of Beyond$1
+Black Sun's Zenith$1
+Bloodchief Ascension$1
+Cruel Tutor$1
+Noxious Gearhulk$1
+Blasphemous Act$1
+Diaochan, Artful Beauty$1
+Dockside Extortionist$1
+Fervor$1
+Humble Defector$1
+Insurrection$1
+Lightning Bolt$1
+Mirrorwing Dragon$1
+Rending Volley$1
+Searing Blood$1
+Shattering Spree$1
+Volcanic Torrent$1
+Warstorm Surge$1
+Beastmaster Ascension$1
+Elemental Bond$1
+The Great Henge$1
+Heartbeat of Spring$1
+Heroic Intervention$1
+Return of the Wildspeaker$1
+Rites of Flourishing$1
+Taunting Challenge$1
+Captain Sisay$1
+Eladamri's Call$1
+Fevered Visions$1
+Join the Dance$1
+Koma, Cosmos Serpent$1
+Rhys the Redeemed$1
+Cityscape Leveler$1
+Meteorite$1
+Sundial of the Infinite$1
+Dark Depths$1
+Fabled Passage$1
+Sunbaked Canyon$1
+Tarnished Citadel$1
+Treetop Village$1
+Valakut, the Molten Pinnacle$1
+Aang, the Last Airbender$1
+Aang's Iceberg$1
+Airbender Ascension$1
+Airbender's Reversal$1
+Airbending Lesson$1
+Appa, Loyal Sky Bison$1
+Appa, Steadfast Guardian$1
+Avatar Enthusiasts$1
+Avatar's Wrath$1
+Compassionate Healer$1
+Curious Farm Animals$1
+Destined Confrontation$1
+Earth Kingdom Jailer$1
+Earth Kingdom Protectors$1
+Enter the Avatar State$1
+Fancy Footwork$1
+Gather the White Lotus$1
+Glider Kids$1
+Glider Staff$1
+Hakoda, Selfless Commander$1
+Invasion Reinforcements$1
+Jeong Jeong's Deserters$1
+Kyoshi Warriors$1
+The Legend of Yangchen$1
+Master Piandao$1
+Momo, Friendly Flier$1
+Momo, Playful Pet$1
+Path to Redemption$1
+Rabaroo Troop$1
+Razor Rings$1
+Sandbenders' Storm$1
+South Pole Voyager$1
+Southern Air Temple$1
+Suki, Courageous Rescuer$1
+Team Avatar$1
+United Front$1
+Vengeful Villagers$1
+Water Tribe Captain$1
+Water Tribe Rallier$1
+Yip Yip!$1
+Accumulate Wisdom$1
+Benevolent River Spirit$1
+Boomerang Basics$1
+Crashing Wave$1
+Ember Island Production$1
+First-Time Flyer$1
+Flexible Waterbender$1
+Forecasting Fortune Teller$1
+Geyser Leaper$1
+Giant Koi$1
+Gran-Gran$1
+Honest Work$1
+Iguana Parrot$1
+Invasion Submersible$1
+It'll Quench Ya!$1
+Katara, Bending Prodigy$1
+Knowledge Seeker$1
+The Legend of Kuruk$1
+Aang's Journey$1
+Energybending$1
+Zuko's Exile$1
+Brought Back$1
+Drannith Magistrate$1
+Empty City Ruse$1
+Lita, Mechanical Engineer$1
+Release to Memory$1
+Scout's Warning$1
+Teferi's Protection$1
+Three Dreams$1
+Agent of Treachery$1
+Bribery$1
+Clone$1
+Clone Legion$1
+Force of Negation$1
+Imprisoned in the Moon$1
+Intruder Alarm$1
+Mystic Remora$1
+Prosperity$1
+Sakashima of a Thousand Faces$1
+Standstill$1
+Training Grounds$1
+Visions of Beyond$1
+Black Sun's Zenith$1
+Bloodchief Ascension$1
+Cruel Tutor$1
+Noxious Gearhulk$1
+Blasphemous Act$1
+Diaochan, Artful Beauty$1
+Dockside Extortionist$1
+Fervor$1
+Humble Defector$1
+Insurrection$1
+Lightning Bolt$1
+Mirrorwing Dragon$1
+Rending Volley$1
+Searing Blood$1
+Shattering Spree$1
+Volcanic Torrent$1
+Warstorm Surge$1
+Beastmaster Ascension$1
+Elemental Bond$1
+The Great Henge$1
+Heartbeat of Spring$1
+Heroic Intervention$1
+Return of the Wildspeaker$1
+Rites of Flourishing$1
+Taunting Challenge$1
+Captain Sisay$1
+Eladamri's Call$1
+Fevered Visions$1
+Join the Dance$1
+Koma, Cosmos Serpent$1
+Rhys the Redeemed$1
+Cityscape Leveler$1
+Meteorite$1
+Sundial of the Infinite$1
+Dark Depths$1
+Fabled Passage$1
+Sunbaked Canyon$1
+Tarnished Citadel$1
+Treetop Village$1
+Valakut, the Molten Pinnacle$1
